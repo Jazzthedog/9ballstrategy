@@ -1,0 +1,887 @@
+0	11:33:53.356	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,M5: uninit reason 3
+0	11:33:53.365	nn_Crosshair_Sync_2_1_3 US30,M5: uninit reason 3
+0	11:33:53.365	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,M1: initialized
+0	11:33:53.365	nn_Crosshair_Sync_2_1_3 US30,M1: initialized
+0	11:33:53.406	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,M1: Alert: Osprey Ltd[2364914]-US30[ M1]- HA(M15)buy
+0	11:36:22.222	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,M1: uninit reason 5
+0	11:36:22.296	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,M1: initialized
+0	11:36:22.320	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,M1: Alert: Osprey Ltd[2364914]-US30[ M1]- HA(M15)buy
+0	11:36:33.364	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,M1: uninit reason 5
+0	11:36:33.422	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,M1: initialized
+0	11:36:33.447	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,M1: Alert: Osprey Ltd[2364914]-US30[ M1]- HA(M15)buy
+0	11:37:10.525	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,M1: uninit reason 5
+0	11:37:10.577	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,M1: initialized
+0	11:37:12.080	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,M1: Alert: Osprey Ltd[2364914]-US30[ M1]- HA(M15)buy
+0	11:38:31.129	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,M1: uninit reason 5
+0	11:38:31.199	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,M1: initialized
+0	11:38:31.224	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,M1: Alert: Osprey Ltd[2364914]-US30[ M1]- HA(M15)buy
+0	11:39:14.508	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,M1: uninit reason 3
+0	11:39:14.510	nn_Crosshair_Sync_2_1_3 US30,M1: uninit reason 3
+0	11:39:14.510	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,Daily: initialized
+0	11:39:14.510	nn_Crosshair_Sync_2_1_3 US30,Daily: initialized
+0	11:39:14.511	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,Daily: need reload
+0	11:39:14.582	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,Daily: Alert: Osprey Ltd[2364914]-US30[ D1]- HA(MN1)buy
+0	11:39:30.233	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,Daily: uninit reason 3
+0	11:39:30.235	nn_Crosshair_Sync_2_1_3 US30,Daily: uninit reason 3
+0	11:39:30.251	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,H4: initialized
+0	11:39:30.251	nn_Crosshair_Sync_2_1_3 US30,H4: initialized
+0	11:39:30.251	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,H4: need reload
+0	11:39:30.311	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,H4: need reload
+0	11:39:32.767	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,H4: uninit reason 3
+0	11:39:32.768	nn_Crosshair_Sync_2_1_3 US30,H4: uninit reason 3
+0	11:39:32.786	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,H1: initialized
+0	11:39:32.786	nn_Crosshair_Sync_2_1_3 US30,H1: initialized
+0	11:39:35.549	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,H1: uninit reason 3
+0	11:39:35.550	nn_Crosshair_Sync_2_1_3 US30,H1: uninit reason 3
+0	11:39:35.550	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,M30: initialized
+0	11:39:35.551	nn_Crosshair_Sync_2_1_3 US30,M30: initialized
+0	11:39:35.575	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,M30: Alert: Osprey Ltd[2364914]-US30[M30]- HA( H4)sell
+0	11:39:41.490	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,M30: uninit reason 3
+0	11:39:41.491	nn_Crosshair_Sync_2_1_3 US30,M30: uninit reason 3
+0	11:39:41.492	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,M15: initialized
+0	11:39:41.492	nn_Crosshair_Sync_2_1_3 US30,M15: initialized
+0	18:51:22.904	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+3	18:51:22.904	EdhoTraderToolEA US30,M1: trade operations not allowed by settings
+0	18:51:25.617	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:51:25.938	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:51:27.385	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:51:28.328	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:51:31.382	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:51:33.084	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:51:34.169	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:51:40.483	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:51:40.548	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:51:42.837	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:51:43.069	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:51:52.528	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:51:53.220	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:51:57.524	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:51:58.304	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:51:59.371	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:51:59.688	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:52:04.225	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:52:04.741	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:52:05.236	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:52:07.382	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:52:07.578	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:52:08.160	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:52:10.511	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:52:10.702	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:52:11.274	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:52:11.490	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:52:11.501	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:52:13.959	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:52:14.054	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:52:15.406	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:52:15.984	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:52:17.905	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:52:19.570	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:52:20.119	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:52:22.824	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:52:22.977	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:52:23.824	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:52:25.334	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:52:25.588	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:52:26.927	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:52:27.707	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:52:27.980	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:52:30.927	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:52:31.190	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:52:33.527	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:52:33.538	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:52:35.350	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:52:35.558	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:52:40.436	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:52:41.493	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:52:42.655	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:52:45.491	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:52:49.421	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:52:50.702	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:52:51.597	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:52:52.909	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:52:53.991	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:52:55.305	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:52:56.204	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:52:56.742	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:52:57.492	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:52:57.648	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:53:01.060	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:53:01.454	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:53:03.546	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:53:05.763	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:53:06.090	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:53:08.804	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:53:08.948	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:53:09.017	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:53:09.285	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:53:09.773	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:53:10.141	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:53:11.162	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:53:13.562	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:53:13.819	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:53:14.492	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:53:16.954	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:53:19.304	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:53:21.414	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:53:29.940	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:53:30.015	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:53:31.324	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:53:31.408	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:53:35.206	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:53:35.310	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:53:36.119	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:53:36.172	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:53:36.752	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:53:37.667	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:53:37.759	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:53:38.034	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:53:40.079	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:53:40.188	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:53:46.786	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:53:46.956	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:53:47.789	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:53:48.388	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:53:48.887	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:53:50.398	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:53:50.936	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:53:51.637	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:53:53.455	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:53:53.697	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:53:54.006	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:53:54.151	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:53:54.778	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:54:00.781	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:54:01.386	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:54:07.060	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:54:07.971	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:54:08.913	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:54:11.434	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:54:11.581	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:54:14.269	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:54:15.285	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:54:15.556	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:54:15.785	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:54:16.116	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:54:17.052	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:54:25.300	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:54:26.007	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:54:28.405	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:54:29.617	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:54:29.684	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:54:34.791	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:54:37.365	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413325 sl=34377.67 tp=-1.00
+0	18:54:41.866	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413531 sl=34400.31 tp=-1.00
+0	18:54:42.066	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413531 sl=34400.31 tp=-1.00
+0	18:54:53.808	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413531 sl=34400.31 tp=-1.00
+0	18:54:54.688	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413531 sl=34400.31 tp=-1.00
+0	18:54:57.536	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413531 sl=34400.31 tp=-1.00
+0	18:54:57.711	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413531 sl=34400.31 tp=-1.00
+0	18:54:58.008	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413531 sl=34400.31 tp=-1.00
+0	18:54:58.485	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413531 sl=34400.31 tp=-1.00
+0	18:55:00.802	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413531 sl=34400.31 tp=-1.00
+0	18:55:00.901	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413531 sl=34400.31 tp=-1.00
+0	18:55:02.124	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413531 sl=34400.31 tp=-1.00
+0	18:55:07.203	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413531 sl=34400.31 tp=-1.00
+0	18:55:22.285	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413531 sl=34400.31 tp=-1.00
+0	18:55:22.362	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413531 sl=34400.31 tp=-1.00
+0	18:55:22.765	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413531 sl=34400.31 tp=-1.00
+0	18:55:23.781	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413531 sl=34400.31 tp=-1.00
+0	18:55:23.910	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413531 sl=34400.31 tp=-1.00
+0	18:55:23.964	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413531 sl=34400.31 tp=-1.00
+0	18:55:25.189	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413531 sl=34400.31 tp=-1.00
+0	18:55:29.272	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413531 sl=34400.31 tp=-1.00
+0	18:55:30.091	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413531 sl=34400.31 tp=-1.00
+0	18:55:30.336	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413531 sl=34400.31 tp=-1.00
+0	18:55:31.470	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413531 sl=34400.31 tp=-1.00
+0	18:55:34.426	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413531 sl=34400.31 tp=-1.00
+0	18:55:46.307	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413531 sl=34400.31 tp=-1.00
+0	18:55:46.665	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413531 sl=34400.31 tp=-1.00
+0	18:55:48.366	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413531 sl=34400.31 tp=-1.00
+0	18:55:48.617	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413531 sl=34400.31 tp=-1.00
+0	18:55:48.683	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413531 sl=34400.31 tp=-1.00
+0	18:56:02.642	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413531 sl=34400.31 tp=-1.00
+0	18:56:03.876	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413531 sl=34400.31 tp=-1.00
+0	18:56:04.036	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413531 sl=34400.31 tp=-1.00
+0	18:56:04.334	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413531 sl=34400.31 tp=-1.00
+0	18:56:05.367	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413531 sl=34400.31 tp=-1.00
+0	18:56:06.365	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413531 sl=34400.31 tp=-1.00
+0	18:56:06.758	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413531 sl=34400.31 tp=-1.00
+0	18:56:08.060	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413531 sl=34400.31 tp=-1.00
+0	18:56:08.837	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413531 sl=34400.31 tp=-1.00
+0	18:56:09.935	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413531 sl=34400.31 tp=-1.00
+0	18:56:10.235	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413531 sl=34400.31 tp=-1.00
+0	18:56:11.314	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413531 sl=34400.31 tp=-1.00
+0	18:56:13.325	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413531 sl=34400.31 tp=-1.00
+0	18:56:13.369	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413531 sl=34400.31 tp=-1.00
+0	18:56:13.493	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413531 sl=34400.31 tp=-1.00
+0	18:56:14.202	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413531 sl=34400.31 tp=-1.00
+0	18:56:15.734	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87413531 sl=34400.31 tp=-1.00
+0	19:26:57.640	nn_Crosshair_Sync_2_1_3 US30,M1: uninit reason 3
+0	19:26:57.641	nn_Crosshair_Sync_2_1_3 US30,M5: initialized
+0	21:33:00.577	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:33:03.231	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:33:03.528	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:33:09.429	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:33:09.727	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:33:09.830	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:33:10.123	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:33:13.135	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:33:15.493	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:33:16.785	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:33:20.635	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:33:20.868	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:33:20.933	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:33:22.642	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:33:27.198	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:33:28.866	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:33:28.932	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:33:32.016	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:33:34.066	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:33:34.763	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:33:34.841	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:33:40.110	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:33:41.624	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:33:41.879	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:33:42.066	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:33:42.132	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:33:42.499	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:33:42.699	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:33:48.991	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:33:49.661	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:33:51.743	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:33:57.208	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:34:05.635	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:34:05.635	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:34:05.635	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:34:06.239	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:34:06.621	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:34:06.621	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:34:06.621	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:34:07.290	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:34:08.674	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:34:08.674	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:34:08.674	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:34:10.406	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:34:10.406	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:34:10.406	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:34:12.758	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:34:12.758	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:34:12.758	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:34:13.154	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:34:13.154	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:34:13.154	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:34:15.013	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:34:15.013	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:34:15.013	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:34:15.176	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:34:15.176	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:34:15.176	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:34:15.243	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:34:15.243	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:34:15.243	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:34:16.944	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:34:16.944	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:34:16.944	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:34:18.184	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:34:18.388	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:34:22.269	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:34:22.269	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:34:22.269	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:34:22.824	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:34:22.824	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:34:22.824	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:34:23.185	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:34:23.185	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:34:23.185	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:34:26.311	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:34:26.311	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:34:26.311	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:34:27.078	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:34:27.078	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:34:27.078	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:34:28.303	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:34:28.303	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:34:28.303	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:34:29.069	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:34:29.069	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:34:29.069	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:34:29.356	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:34:29.356	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:34:29.356	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:34:29.947	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:34:29.947	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:34:29.947	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:34:30.167	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:34:30.167	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:34:30.167	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:34:30.617	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:34:30.617	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:34:30.617	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:34:31.347	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:34:31.347	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:34:31.348	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:34:31.651	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:34:31.651	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:34:31.651	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:34:33.508	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:34:33.508	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:34:33.508	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:34:36.518	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:34:36.518	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:34:36.518	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:34:38.102	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:34:38.102	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:34:38.102	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:34:41.058	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:34:41.058	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:34:41.058	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:34:45.423	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:34:45.423	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:34:45.423	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:34:45.471	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:34:45.471	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:34:45.471	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:34:45.577	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:34:45.577	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:34:45.577	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:34:49.755	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:34:49.755	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:34:49.755	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:34:51.295	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:34:51.295	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:34:51.295	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:34:52.225	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:34:52.225	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:34:52.225	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:34:52.299	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:34:52.299	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:34:52.299	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:34:57.236	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:34:57.236	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:34:57.236	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:34:57.292	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:34:57.292	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:34:57.292	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:34:59.782	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:34:59.782	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:34:59.782	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:35:00.585	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:35:00.585	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:35:00.585	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:35:01.271	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:35:01.271	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:35:01.271	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:35:02.300	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:35:02.300	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:35:02.300	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:35:02.498	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:35:02.498	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:35:02.498	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:35:02.733	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:35:02.733	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:35:02.733	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:35:02.972	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:35:02.972	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:35:02.972	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:35:03.062	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:35:03.062	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:35:03.062	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:35:03.398	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:35:03.398	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:35:03.398	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:35:04.528	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:35:04.528	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:35:04.528	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:35:06.675	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:35:06.675	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:35:06.675	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:35:09.867	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:35:09.867	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:35:09.867	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:35:13.879	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:35:13.879	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:35:13.879	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:35:15.923	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:35:15.923	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:35:15.923	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:35:15.998	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:35:15.998	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:35:15.998	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:35:16.234	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:35:16.234	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:35:16.234	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:35:17.007	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:35:17.007	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:35:17.007	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:35:17.042	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:35:17.042	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:35:17.042	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:35:17.104	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:35:17.104	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:35:17.104	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:35:17.922	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:35:17.922	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:35:17.922	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:35:18.062	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:35:18.062	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:35:18.062	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:35:18.602	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:35:18.602	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:35:18.602	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:35:20.950	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:35:20.950	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:35:20.950	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:35:22.626	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:35:22.626	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:35:22.626	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:35:22.710	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:35:22.711	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:35:22.711	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:35:24.103	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:35:24.103	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:35:24.103	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:35:25.625	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:35:25.625	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:35:25.625	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:35:25.975	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:35:25.975	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:35:25.975	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:35:26.156	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:35:26.156	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:35:26.156	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:35:27.534	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:35:27.534	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:35:27.534	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:35:30.099	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:35:30.099	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:35:30.099	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:35:31.375	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:35:31.375	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:35:31.375	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:35:33.896	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:35:33.896	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:35:33.896	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:35:34.075	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:35:34.075	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:35:34.075	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:35:34.258	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:35:34.258	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:35:34.258	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:35:34.330	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:35:34.330	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:35:34.330	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:35:36.865	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:35:36.865	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:35:36.865	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:35:36.922	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:35:36.922	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:35:36.922	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:35:39.387	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:35:39.387	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:35:39.387	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:35:42.240	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:35:42.240	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:35:42.240	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:35:44.705	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:35:44.705	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:35:44.705	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:35:44.821	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:35:44.821	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:35:44.821	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:35:45.264	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:35:45.264	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:35:45.264	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:35:45.382	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:35:45.382	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:35:45.382	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:35:45.719	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:35:45.719	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:35:45.719	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:35:46.853	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:35:46.853	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:35:46.853	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:35:47.354	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:35:47.354	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:35:47.354	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:35:48.841	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:35:48.841	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:35:48.841	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:35:49.076	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:35:49.076	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:35:49.076	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:35:49.750	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:35:49.750	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:35:49.750	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:35:50.114	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:35:50.114	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:35:50.114	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:35:50.612	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:35:50.612	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:35:50.612	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:35:50.870	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:35:50.870	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:35:50.870	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:35:50.978	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:35:50.978	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:35:50.978	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:35:54.546	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:35:54.546	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:35:54.546	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:35:54.868	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:35:54.868	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:35:54.868	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:35:57.699	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:35:57.699	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:35:57.699	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:35:58.446	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:35:58.446	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:35:58.446	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:36:00.436	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:36:00.436	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:36:00.436	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:36:00.616	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:36:00.616	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:36:00.616	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:36:02.874	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:36:02.874	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:36:02.874	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:36:03.141	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:36:03.141	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:36:03.141	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:36:03.964	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:36:03.964	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:36:03.964	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:36:04.861	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:36:04.861	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:36:04.861	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:36:09.893	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:36:09.893	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:36:09.893	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:36:10.045	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:36:10.045	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:36:10.045	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:36:12.716	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:36:12.716	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:36:12.716	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:36:12.814	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:36:12.814	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:36:12.814	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:36:15.742	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:36:15.742	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:36:15.742	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:36:15.858	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:36:15.858	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:36:15.858	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:36:17.542	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:36:17.542	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:36:17.542	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:36:17.624	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:36:17.624	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:36:17.624	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:36:24.524	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:36:24.524	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:36:24.524	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:36:24.773	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:36:24.773	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:36:24.773	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:36:26.448	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:36:26.448	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:36:26.448	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:36:27.702	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:36:27.702	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:36:27.702	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:36:28.841	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:36:28.841	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:36:28.841	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:36:29.562	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:36:29.562	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:36:29.562	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:36:44.231	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:36:44.231	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:36:44.231	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:36:44.374	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:36:44.374	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:36:44.374	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:36:46.675	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:36:46.675	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:36:46.675	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:36:46.775	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:36:46.775	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:36:46.775	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:36:56.115	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:36:56.115	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:36:56.115	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:36:58.014	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:36:58.014	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:36:58.014	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:36:58.575	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:36:58.575	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:36:58.575	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:36:58.951	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:36:58.951	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:36:58.951	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:36:59.992	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:36:59.992	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:36:59.992	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:37:00.060	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:37:00.060	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:37:00.060	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:37:02.332	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:37:02.332	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:37:02.332	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:37:02.467	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:37:02.467	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:37:02.467	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:37:02.764	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:37:02.765	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:37:02.765	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:37:07.268	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:37:07.269	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:37:07.269	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:37:15.789	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:37:15.789	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:37:15.789	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:37:16.561	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:37:16.561	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:37:16.561	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:37:23.197	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:37:23.197	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:37:23.197	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:37:24.124	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:37:24.124	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:37:24.124	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:37:24.190	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:37:24.190	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:37:24.190	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:37:25.467	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:37:25.467	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:37:25.467	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:37:27.115	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:37:27.115	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:37:27.115	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:37:27.210	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:37:27.210	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:37:27.210	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:37:28.922	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:37:28.922	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:37:28.922	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:37:30.577	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:37:30.577	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:37:30.577	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:37:34.205	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:37:34.206	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:37:34.206	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:37:34.514	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:37:34.514	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:37:34.514	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:37:34.858	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:37:34.858	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:37:34.858	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:37:35.032	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:37:35.032	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:37:35.032	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:37:35.364	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:37:35.364	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:37:35.364	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:37:35.454	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34345.67 tp=-1.00
+0	21:37:35.455	EdhoTraderToolEA US30,M1: Ticket_ModifySLTPPrice on ticket 87427999 sl=34355.70 tp=-1.00
+0	21:37:35.455	EdhoTraderToolEA US30,M1: set ticket 87427999 to BE
+0	21:40:26.189	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,M15: uninit reason 3
+0	21:40:26.191	nn_Crosshair_Sync_2_1_3 US30,M15: uninit reason 3
+0	21:40:26.198	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,M30: initialized
+0	21:40:26.198	nn_Crosshair_Sync_2_1_3 US30,M30: initialized
+0	21:40:26.227	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,M30: Alert: Osprey Ltd[2364914]-US30[M30]- HA( H4)sell
+0	21:40:39.831	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,M30: uninit reason 3
+0	21:40:39.832	nn_Crosshair_Sync_2_1_3 US30,M30: uninit reason 3
+0	21:40:39.833	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,H1: initialized
+0	21:40:39.833	nn_Crosshair_Sync_2_1_3 US30,H1: initialized
+0	21:40:43.126	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,H1: uninit reason 3
+0	21:40:43.127	nn_Crosshair_Sync_2_1_3 US30,H1: uninit reason 3
+0	21:40:43.127	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,H4: initialized
+0	21:40:43.127	nn_Crosshair_Sync_2_1_3 US30,H4: initialized
+0	21:40:45.478	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,H4: uninit reason 3
+0	21:40:45.479	nn_Crosshair_Sync_2_1_3 US30,H4: uninit reason 3
+0	21:40:45.479	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,Daily: initialized
+0	21:40:45.480	nn_Crosshair_Sync_2_1_3 US30,Daily: initialized
+0	21:40:45.511	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,Daily: Alert: Osprey Ltd[2364914]-US30[ D1]- HA(MN1)buy
+0	21:42:01.203	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,Daily: uninit reason 3
+0	21:42:01.204	nn_Crosshair_Sync_2_1_3 US30,Daily: uninit reason 3
+0	21:42:01.204	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,M5: initialized
+0	21:42:01.204	nn_Crosshair_Sync_2_1_3 US30,M5: initialized
+0	21:42:01.228	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,M5: Alert: Osprey Ltd[2364914]-US30[ M5]- HA(M30)buy
+0	21:42:07.586	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,M5: uninit reason 3
+0	21:42:07.589	nn_Crosshair_Sync_2_1_3 US30,M5: uninit reason 3
+0	21:42:07.589	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,M15: initialized
+0	21:42:07.589	nn_Crosshair_Sync_2_1_3 US30,M15: initialized
+0	21:42:50.758	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,M15: uninit reason 3
+0	21:42:50.760	nn_Crosshair_Sync_2_1_3 US30,M15: uninit reason 3
+0	21:42:50.760	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,M5: initialized
+0	21:42:50.760	nn_Crosshair_Sync_2_1_3 US30,M5: initialized
+0	21:42:50.783	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,M5: Alert: Osprey Ltd[2364914]-US30[ M5]- HA(M30)buy
+0	21:43:26.275	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,M5: uninit reason 3
+0	21:43:26.276	nn_Crosshair_Sync_2_1_3 US30,M5: uninit reason 3
+0	21:43:26.277	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,M1: initialized
+0	21:43:26.277	nn_Crosshair_Sync_2_1_3 US30,M1: initialized
+0	21:43:26.302	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,M1: Alert: Osprey Ltd[2364914]-US30[ M1]- HA(M15)buy
+0	21:58:26.684	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,M1: uninit reason 3
+0	21:58:26.685	nn_Crosshair_Sync_2_1_3 US30,M1: uninit reason 3
+0	21:58:26.685	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,Daily: initialized
+0	21:58:26.685	nn_Crosshair_Sync_2_1_3 US30,Daily: initialized
+0	21:58:26.712	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,Daily: Alert: Osprey Ltd[2364914]-US30[ D1]- HA(MN1)buy
+0	21:58:32.471	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,Daily: uninit reason 3
+0	21:58:32.473	nn_Crosshair_Sync_2_1_3 US30,Daily: uninit reason 3
+0	21:58:32.473	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,M1: initialized
+0	21:58:32.474	nn_Crosshair_Sync_2_1_3 US30,M1: initialized
+0	21:58:32.497	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,M1: Alert: Osprey Ltd[2364914]-US30[ M1]- HA(M15)buy
+0	22:21:35.693	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,M1: Alert: Osprey Ltd[2364914]-US30[ M1]- HA(M15)sell
+0	22:23:26.924	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,M1: uninit reason 3
+0	22:23:26.926	nn_Crosshair_Sync_2_1_3 US30,M1: uninit reason 3
+0	22:23:26.926	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,M5: initialized
+0	22:23:26.927	nn_Crosshair_Sync_2_1_3 US30,M5: initialized
+0	22:23:26.951	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,M5: Alert: Osprey Ltd[2364914]-US30[ M5]- HA(M30)buy
+0	22:24:52.572	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,M5: uninit reason 3
+0	22:24:52.573	nn_Crosshair_Sync_2_1_3 US30,M5: uninit reason 3
+0	22:24:52.573	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,M15: initialized
+0	22:24:52.573	nn_Crosshair_Sync_2_1_3 US30,M15: initialized
+0	22:24:52.615	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,M15: Alert: Osprey Ltd[2364914]-US30[M15]- HA( H1)buy
+0	22:26:00.493	Heiken Ashi US30,M5: uninit reason 3
+0	22:26:00.493	Heiken Ashi US30,M15: initialized
+0	22:26:04.991	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,M15: uninit reason 3
+0	22:26:04.993	nn_Crosshair_Sync_2_1_3 US30,M15: uninit reason 3
+0	22:26:04.993	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,M1: initialized
+0	22:26:04.993	nn_Crosshair_Sync_2_1_3 US30,M1: initialized
+0	22:27:48.819	MarketMarkers_v1.1 US30,M1: uninit reason 7
+0	22:27:48.819	_HOD_LOD_Close_1 US30,M1: uninit reason 7
+0	22:27:48.819	HighLight_Pins US30,M1: uninit reason 7
+0	22:27:48.821	ZigZag&HiLoValues v2.4 US30,M1: uninit reason 7
+0	22:27:48.821	Magnified_Market_Price US30,M1: uninit reason 7
+0	22:27:48.822	Semafor (1ball) US30,M1: uninit reason 7
+0	22:27:48.822	pipsometer_5_decimal US30,M1: uninit reason 7
+0	22:27:48.822	SweetSpotsGOLD_TRO_MODIFIED_VERSION(Bullforyou.com) US30,M1: uninit reason 7
+0	22:27:48.822	TMA+CG mladen NRP TEAMTRADER7 US30,M1: uninit reason 7
+0	22:27:48.824	LSMA_in_Color US30,M1: uninit reason 7
+0	22:27:48.824	nn_Crosshair_Sync_2_1_3 US30,M1: uninit reason 7
+0	22:27:48.824	ZeroLag_MACD US30,M1: uninit reason 7
+0	22:27:48.824	Divergence_MACD_FX5_V1.1 US30,M1: uninit reason 7
+0	22:27:48.825	ticks-volume4 US30,M1: uninit reason 7
+0	22:27:48.825	EdhoTraderToolEA US30,M1: uninit reason 7
+0	22:27:48.837	Expert EdhoTraderToolEA US30,M1: removed
+0	22:27:48.839	Custom indicator MarketMarkers_v1.1 US30,M1: removed
+0	22:27:48.840	Custom indicator _HOD_LOD_Close_1 US30,M1: removed
+0	22:27:48.842	Custom indicator HighLight_Pins US30,M1: removed
+0	22:27:48.843	Custom indicator ZigZag&HiLoValues v2.4 US30,M1: removed
+0	22:27:48.845	Custom indicator Magnified_Market_Price US30,M1: removed
+0	22:27:48.846	Custom indicator Semafor (1ball) US30,M1: removed
+0	22:27:48.848	Custom indicator pipsometer_5_decimal US30,M1: removed
+0	22:27:48.849	Custom indicator SweetSpotsGOLD_TRO_MODIFIED_VERSION(Bullforyou.com) US30,M1: removed
+0	22:27:48.850	Custom indicator TMA+CG mladen NRP TEAMTRADER7 US30,M1: removed
+0	22:27:48.852	Custom indicator LSMA_in_Color US30,M1: removed
+0	22:27:48.853	Custom indicator nn_Crosshair_Sync_2_1_3 US30,M1: removed
+0	22:27:48.854	Custom indicator ZeroLag_MACD US30,M1: removed
+0	22:27:48.856	Custom indicator Divergence_MACD_FX5_V1.1 US30,M1: removed
+0	22:27:48.857	Custom indicator ticks-volume4 US30,M1: removed
+0	22:27:48.893	Custom indicator MarketMarkers_v1.1 US30,M1: loaded successfully
+0	22:27:48.909	Custom indicator _HOD_LOD_Close_1 US30,M1: loaded successfully
+0	22:27:48.924	Custom indicator HighLight_Pins US30,M1: loaded successfully
+0	22:27:48.941	Custom indicator ZigZag&HiLoValues v2.4 US30,M1: loaded successfully
+0	22:27:48.959	Custom indicator Magnified_Market_Price US30,M1: loaded successfully
+0	22:27:48.969	Custom indicator Semafor (1ball) US30,M1: loaded successfully
+0	22:27:48.987	Custom indicator pipsometer_5_decimal US30,M1: loaded successfully
+0	22:27:49.002	Custom indicator SweetSpotsGOLD_TRO_MODIFIED_VERSION(Bullforyou.com) US30,M1: loaded successfully
+0	22:27:49.021	Custom indicator TMA+CG mladen NRP TEAMTRADER7 US30,M1: loaded successfully
+0	22:27:49.038	Custom indicator LSMA_in_Color US30,M1: loaded successfully
+0	22:27:49.053	Custom indicator ZeroLag_MACD US30,M1: loaded successfully
+0	22:27:49.073	Custom indicator Divergence_MACD_FX5_V1.1 US30,M1: loaded successfully
+0	22:27:49.092	Custom indicator ticks-volume4 US30,M1: loaded successfully
+0	22:27:49.171	MarketMarkers_v1.1 US30,M1: initialized
+0	22:27:49.188	_HOD_LOD_Close_1 US30,M1: initialized
+0	22:27:49.202	HighLight_Pins US30,M1: initialized
+0	22:27:49.246	ZigZag&HiLoValues v2.4 US30,M1: initialized
+0	22:27:49.257	Magnified_Market_Price US30,M1: initialized
+0	22:27:49.269	Semafor (1ball) US30,M1: initialized
+0	22:27:49.290	pipsometer_5_decimal US30,M1: initialized
+0	22:27:49.306	SweetSpotsGOLD_TRO_MODIFIED_VERSION(Bullforyou.com) US30,M1: initialized
+0	22:27:49.323	TMA+CG mladen NRP TEAMTRADER7 US30,M1: initialized
+0	22:27:49.335	LSMA_in_Color US30,M1: initialized
+0	22:27:49.346	ZeroLag_MACD US30,M1: initialized
+0	22:27:49.366	Divergence_MACD_FX5_V1.1 US30,M1: initialized
+0	22:27:49.379	ticks-volume4 US30,M1: initialized
+0	22:30:00.113	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,M1: Alert: Osprey Ltd[2364914]-US30[ M1]- HA(M15)sell
+0	22:40:57.478	Heiken Ashi US30,M15: uninit reason 3
+0	22:40:57.478	Heiken Ashi US30,Daily: initialized
+0	22:46:46.473	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,M1: uninit reason 3
+0	22:46:46.475	nn_Crosshair_Sync_2_1_3 US30,M1: uninit reason 3
+0	22:46:46.475	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,H1: initialized
+0	22:46:46.475	nn_Crosshair_Sync_2_1_3 US30,H1: initialized
+0	22:46:52.377	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,H1: uninit reason 3
+0	22:46:52.378	nn_Crosshair_Sync_2_1_3 US30,H1: uninit reason 3
+0	22:46:52.378	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,M15: initialized
+0	22:46:52.378	nn_Crosshair_Sync_2_1_3 US30,M15: initialized
+0	22:46:52.403	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,M15: Alert: Osprey Ltd[2364914]-US30[M15]- HA( H1)buy
+0	22:47:31.647	nn_Crosshair_Sync_2_1_3 US30,M5: uninit reason 3
+0	22:47:31.647	nn_Crosshair_Sync_2_1_3 US30,H1: initialized
+0	22:47:58.815	MarketMarkers_v1.1 US30,M1: uninit reason 3
+0	22:47:58.816	_HOD_LOD_Close_1 US30,M1: uninit reason 3
+0	22:47:58.816	HighLight_Pins US30,M1: uninit reason 3
+0	22:47:58.818	ZigZag&HiLoValues v2.4 US30,M1: uninit reason 3
+0	22:47:58.818	Magnified_Market_Price US30,M1: uninit reason 3
+0	22:47:58.818	Semafor (1ball) US30,M1: uninit reason 3
+0	22:47:58.818	pipsometer_5_decimal US30,M1: uninit reason 3
+0	22:47:58.818	SweetSpotsGOLD_TRO_MODIFIED_VERSION(Bullforyou.com) US30,M1: uninit reason 3
+0	22:47:58.819	TMA+CG mladen NRP TEAMTRADER7 US30,M1: uninit reason 3
+0	22:47:58.820	LSMA_in_Color US30,M1: uninit reason 3
+0	22:47:58.820	ZeroLag_MACD US30,M1: uninit reason 3
+0	22:47:58.820	Divergence_MACD_FX5_V1.1 US30,M1: uninit reason 3
+0	22:47:58.821	ticks-volume4 US30,M1: uninit reason 3
+0	22:47:58.821	MarketMarkers_v1.1 US30,H1: initialized
+0	22:47:58.821	_HOD_LOD_Close_1 US30,H1: initialized
+0	22:47:58.821	HighLight_Pins US30,H1: initialized
+0	22:47:58.821	ZigZag&HiLoValues v2.4 US30,H1: initialized
+0	22:47:58.821	Magnified_Market_Price US30,H1: initialized
+0	22:47:58.821	Semafor (1ball) US30,H1: initialized
+0	22:47:58.822	pipsometer_5_decimal US30,H1: initialized
+0	22:47:58.822	SweetSpotsGOLD_TRO_MODIFIED_VERSION(Bullforyou.com) US30,H1: initialized
+0	22:47:58.822	TMA+CG mladen NRP TEAMTRADER7 US30,H1: initialized
+0	22:47:58.822	LSMA_in_Color US30,H1: initialized
+0	22:47:58.822	ZeroLag_MACD US30,H1: initialized
+0	22:47:58.822	Divergence_MACD_FX5_V1.1 US30,H1: initialized
+0	22:47:58.822	ticks-volume4 US30,H1: initialized
+0	22:48:05.489	MarketMarkers_v1.1 US30,H1: uninit reason 3
+0	22:48:05.489	_HOD_LOD_Close_1 US30,H1: uninit reason 3
+0	22:48:05.489	HighLight_Pins US30,H1: uninit reason 3
+0	22:48:05.491	ZigZag&HiLoValues v2.4 US30,H1: uninit reason 3
+0	22:48:05.491	Magnified_Market_Price US30,H1: uninit reason 3
+0	22:48:05.491	Semafor (1ball) US30,H1: uninit reason 3
+0	22:48:05.491	pipsometer_5_decimal US30,H1: uninit reason 3
+0	22:48:05.491	SweetSpotsGOLD_TRO_MODIFIED_VERSION(Bullforyou.com) US30,H1: uninit reason 3
+0	22:48:05.491	TMA+CG mladen NRP TEAMTRADER7 US30,H1: uninit reason 3
+0	22:48:05.493	LSMA_in_Color US30,H1: uninit reason 3
+0	22:48:05.493	ZeroLag_MACD US30,H1: uninit reason 3
+0	22:48:05.493	Divergence_MACD_FX5_V1.1 US30,H1: uninit reason 3
+0	22:48:05.494	ticks-volume4 US30,H1: uninit reason 3
+0	22:48:05.494	MarketMarkers_v1.1 US30,M1: initialized
+0	22:48:05.494	_HOD_LOD_Close_1 US30,M1: initialized
+0	22:48:05.494	HighLight_Pins US30,M1: initialized
+0	22:48:05.494	ZigZag&HiLoValues v2.4 US30,M1: initialized
+0	22:48:05.494	Magnified_Market_Price US30,M1: initialized
+0	22:48:05.494	Semafor (1ball) US30,M1: initialized
+0	22:48:05.495	pipsometer_5_decimal US30,M1: initialized
+0	22:48:05.495	SweetSpotsGOLD_TRO_MODIFIED_VERSION(Bullforyou.com) US30,M1: initialized
+0	22:48:05.495	TMA+CG mladen NRP TEAMTRADER7 US30,M1: initialized
+0	22:48:05.495	LSMA_in_Color US30,M1: initialized
+0	22:48:05.495	ZeroLag_MACD US30,M1: initialized
+0	22:48:05.495	Divergence_MACD_FX5_V1.1 US30,M1: initialized
+0	22:48:05.495	ticks-volume4 US30,M1: initialized
+0	22:50:00.567	nn_Crosshair_Sync_2_1_3 US30,H1: uninit reason 3
+0	22:50:00.567	nn_Crosshair_Sync_2_1_3 US30,M5: initialized
+0	22:50:03.483	nn_Crosshair_Sync_2_1_3 US30,M5: uninit reason 3
+0	22:50:03.483	nn_Crosshair_Sync_2_1_3 US30,M1: initialized
+0	22:54:22.330	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,M15: uninit reason 3
+0	22:54:22.331	nn_Crosshair_Sync_2_1_3 US30,M15: uninit reason 3
+0	22:54:22.331	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,M5: initialized
+0	22:54:22.332	nn_Crosshair_Sync_2_1_3 US30,M5: initialized
+0	22:54:22.356	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,M5: Alert: Osprey Ltd[2364914]-US30[ M5]- HA(M30)buy
+0	23:02:25.928	Custom indicator nn_Crosshair_Sync_2_1_3 US30,M1: loaded successfully
+0	23:02:28.003	nn_Crosshair_Sync_2_1_3 US30,M1: initialized
+0	23:04:02.937	nn_Crosshair_Sync_2_1_3 US30,M1: uninit reason 3
+0	23:04:02.937	nn_Crosshair_Sync_2_1_3 US30,M5: initialized

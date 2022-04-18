@@ -1,0 +1,13 @@
+TimeFrame=current time frame
+HalfLength=21
+Price=6
+BandsDeviations=2.0
+Interpolate=true
+alertsOn=false
+alertsOnCurrent=false
+alertsOnHighLow=false
+SetArrows=Set_arrows
+CodeUp=200
+CodeDn=202
+Size=6
+Gap=1.5

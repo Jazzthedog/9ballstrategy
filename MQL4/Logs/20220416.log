@@ -1,0 +1,251 @@
+0	10:02:36.124	Custom indicator MarketMarkers_v1.1 US30,H1: loaded successfully
+0	10:02:36.135	Custom indicator _HOD_LOD_Close_1 US30,H1: loaded successfully
+0	10:02:36.143	Custom indicator HighLight_Pins US30,H1: loaded successfully
+0	10:02:36.153	Custom indicator ZigZag&HiLoValues v2.4 US30,H1: loaded successfully
+0	10:02:36.162	Custom indicator Magnified_Market_Price US30,H1: loaded successfully
+0	10:02:36.171	Custom indicator Semafor (1ball) US30,H1: loaded successfully
+0	10:02:36.180	Custom indicator pipsometer_5_decimal US30,H1: loaded successfully
+0	10:02:36.190	Custom indicator SweetSpotsGOLD_TRO_MODIFIED_VERSION(Bullforyou.com) US30,H1: loaded successfully
+0	10:02:36.200	Custom indicator TMA+CG mladen NRP TEAMTRADER7 US30,H1: loaded successfully
+0	10:02:36.209	Custom indicator LSMA_in_Color US30,H1: loaded successfully
+0	10:02:36.219	Custom indicator ZeroLag_MACD US30,H1: loaded successfully
+0	10:02:36.244	Custom indicator Divergence_MACD_FX5_V1.1 US30,H1: loaded successfully
+0	10:02:36.253	Custom indicator ticks-volume4 US30,H1: loaded successfully
+0	10:02:36.342	MarketMarkers_v1.1 US30,H1: initialized
+0	10:02:36.371	_HOD_LOD_Close_1 US30,H1: initialized
+0	10:02:36.384	HighLight_Pins US30,H1: initialized
+0	10:02:36.427	ZigZag&HiLoValues v2.4 US30,H1: initialized
+0	10:02:36.438	Magnified_Market_Price US30,H1: initialized
+0	10:02:36.451	Semafor (1ball) US30,H1: initialized
+0	10:02:36.471	pipsometer_5_decimal US30,H1: initialized
+0	10:02:36.490	SweetSpotsGOLD_TRO_MODIFIED_VERSION(Bullforyou.com) US30,H1: initialized
+0	10:02:36.506	TMA+CG mladen NRP TEAMTRADER7 US30,H1: initialized
+0	10:02:36.518	LSMA_in_Color US30,H1: initialized
+0	10:02:36.529	ZeroLag_MACD US30,H1: initialized
+0	10:02:36.547	Divergence_MACD_FX5_V1.1 US30,H1: initialized
+0	10:02:36.560	ticks-volume4 US30,H1: initialized
+0	10:02:36.973	Custom indicator MarketMarkers_v1.1 DAX,H1: loaded successfully
+0	10:02:36.984	Custom indicator _HOD_LOD_Close_1 DAX,H1: loaded successfully
+0	10:02:36.992	Custom indicator HighLight_Pins DAX,H1: loaded successfully
+0	10:02:37.003	Custom indicator ZigZag&HiLoValues v2.4 DAX,H1: loaded successfully
+0	10:02:37.012	Custom indicator Magnified_Market_Price DAX,H1: loaded successfully
+0	10:02:37.021	Custom indicator Semafor (1ball) DAX,H1: loaded successfully
+0	10:02:37.031	Custom indicator pipsometer_5_decimal DAX,H1: loaded successfully
+0	10:02:37.040	Custom indicator SweetSpotsGOLD_TRO_MODIFIED_VERSION(Bullforyou.com) DAX,H1: loaded successfully
+0	10:02:37.052	Custom indicator TMA+CG mladen NRP TEAMTRADER7 DAX,H1: loaded successfully
+0	10:02:37.063	Custom indicator LSMA_in_Color DAX,H1: loaded successfully
+0	10:02:37.072	Custom indicator ZeroLag_MACD DAX,H1: loaded successfully
+0	10:02:37.101	Custom indicator Divergence_MACD_FX5_V1.1 DAX,H1: loaded successfully
+0	10:02:37.111	Custom indicator ticks-volume4 DAX,H1: loaded successfully
+0	10:02:37.189	MarketMarkers_v1.1 DAX,H1: initialized
+0	10:02:37.215	_HOD_LOD_Close_1 DAX,H1: initialized
+0	10:02:37.228	HighLight_Pins DAX,H1: initialized
+0	10:02:37.273	ZigZag&HiLoValues v2.4 DAX,H1: initialized
+0	10:02:37.285	Magnified_Market_Price DAX,H1: initialized
+0	10:02:37.296	Semafor (1ball) DAX,H1: initialized
+0	10:02:37.317	pipsometer_5_decimal DAX,H1: initialized
+0	10:02:37.336	SweetSpotsGOLD_TRO_MODIFIED_VERSION(Bullforyou.com) DAX,H1: initialized
+0	10:02:37.352	TMA+CG mladen NRP TEAMTRADER7 DAX,H1: initialized
+0	10:02:37.363	LSMA_in_Color DAX,H1: initialized
+0	10:02:37.374	ZeroLag_MACD DAX,H1: initialized
+0	10:02:37.393	Divergence_MACD_FX5_V1.1 DAX,H1: initialized
+0	10:02:37.406	ticks-volume4 DAX,H1: initialized
+0	10:02:37.808	Custom indicator MarketMarkers_v1.1 SPX500,H1: loaded successfully
+0	10:02:37.818	Custom indicator _HOD_LOD_Close_1 SPX500,H1: loaded successfully
+0	10:02:37.830	Custom indicator HighLight_Pins SPX500,H1: loaded successfully
+0	10:02:37.858	Custom indicator ZigZag&HiLoValues v2.4 SPX500,H1: loaded successfully
+0	10:02:37.867	Custom indicator Magnified_Market_Price SPX500,H1: loaded successfully
+0	10:02:37.877	Custom indicator Semafor (1ball) SPX500,H1: loaded successfully
+0	10:02:37.886	Custom indicator pipsometer_5_decimal SPX500,H1: loaded successfully
+0	10:02:37.895	Custom indicator SweetSpotsGOLD_TRO_MODIFIED_VERSION(Bullforyou.com) SPX500,H1: loaded successfully
+0	10:02:37.904	Custom indicator TMA+CG mladen NRP TEAMTRADER7 SPX500,H1: loaded successfully
+0	10:02:37.913	Custom indicator LSMA_in_Color SPX500,H1: loaded successfully
+0	10:02:37.922	Custom indicator ZeroLag_MACD SPX500,H1: loaded successfully
+0	10:02:37.949	Custom indicator Divergence_MACD_FX5_V1.1 SPX500,H1: loaded successfully
+0	10:02:37.957	Custom indicator ticks-volume4 SPX500,H1: loaded successfully
+0	10:02:38.032	MarketMarkers_v1.1 SPX500,H1: initialized
+0	10:02:38.062	_HOD_LOD_Close_1 SPX500,H1: initialized
+0	10:02:38.075	HighLight_Pins SPX500,H1: initialized
+0	10:02:38.116	ZigZag&HiLoValues v2.4 SPX500,H1: initialized
+0	10:02:38.127	Magnified_Market_Price SPX500,H1: initialized
+0	10:02:38.139	Semafor (1ball) SPX500,H1: initialized
+0	10:02:38.159	pipsometer_5_decimal SPX500,H1: initialized
+0	10:02:38.178	SweetSpotsGOLD_TRO_MODIFIED_VERSION(Bullforyou.com) SPX500,H1: initialized
+0	10:02:38.194	TMA+CG mladen NRP TEAMTRADER7 SPX500,H1: initialized
+0	10:02:38.205	LSMA_in_Color SPX500,H1: initialized
+0	10:02:38.216	ZeroLag_MACD SPX500,H1: initialized
+0	10:02:38.235	Divergence_MACD_FX5_V1.1 SPX500,H1: initialized
+0	10:02:38.248	ticks-volume4 SPX500,H1: initialized
+0	10:02:38.666	Custom indicator MarketMarkers_v1.1 NAS100,H1: loaded successfully
+0	10:02:38.675	Custom indicator _HOD_LOD_Close_1 NAS100,H1: loaded successfully
+0	10:02:38.684	Custom indicator HighLight_Pins NAS100,H1: loaded successfully
+0	10:02:38.694	Custom indicator ZigZag&HiLoValues v2.4 NAS100,H1: loaded successfully
+0	10:02:38.703	Custom indicator Magnified_Market_Price NAS100,H1: loaded successfully
+0	10:02:38.713	Custom indicator Semafor (1ball) NAS100,H1: loaded successfully
+0	10:02:38.722	Custom indicator pipsometer_5_decimal NAS100,H1: loaded successfully
+0	10:02:38.731	Custom indicator SweetSpotsGOLD_TRO_MODIFIED_VERSION(Bullforyou.com) NAS100,H1: loaded successfully
+0	10:02:38.741	Custom indicator TMA+CG mladen NRP TEAMTRADER7 NAS100,H1: loaded successfully
+0	10:02:38.750	Custom indicator LSMA_in_Color NAS100,H1: loaded successfully
+0	10:02:38.759	Custom indicator ZeroLag_MACD NAS100,H1: loaded successfully
+0	10:02:38.786	Custom indicator Divergence_MACD_FX5_V1.1 NAS100,H1: loaded successfully
+0	10:02:38.795	Custom indicator ticks-volume4 NAS100,H1: loaded successfully
+0	10:02:38.869	MarketMarkers_v1.1 NAS100,H1: initialized
+0	10:02:38.900	_HOD_LOD_Close_1 NAS100,H1: initialized
+0	10:02:38.912	HighLight_Pins NAS100,H1: initialized
+0	10:02:38.954	ZigZag&HiLoValues v2.4 NAS100,H1: initialized
+0	10:02:38.965	Magnified_Market_Price NAS100,H1: initialized
+0	10:02:38.976	Semafor (1ball) NAS100,H1: initialized
+0	10:02:38.997	pipsometer_5_decimal NAS100,H1: initialized
+0	10:02:39.016	SweetSpotsGOLD_TRO_MODIFIED_VERSION(Bullforyou.com) NAS100,H1: initialized
+0	10:02:39.032	TMA+CG mladen NRP TEAMTRADER7 NAS100,H1: initialized
+0	10:02:39.044	LSMA_in_Color NAS100,H1: initialized
+0	10:02:39.055	ZeroLag_MACD NAS100,H1: initialized
+0	10:02:39.076	Divergence_MACD_FX5_V1.1 NAS100,H1: initialized
+0	10:02:39.089	ticks-volume4 NAS100,H1: initialized
+0	10:03:23.149	MarketMarkers_v1.1 US30,H1: uninit reason 4
+0	10:03:23.152	_HOD_LOD_Close_1 US30,H1: uninit reason 4
+0	10:03:23.152	HighLight_Pins US30,H1: uninit reason 4
+0	10:03:23.153	ZigZag&HiLoValues v2.4 US30,H1: uninit reason 4
+0	10:03:23.156	Magnified_Market_Price US30,H1: uninit reason 4
+0	10:03:23.156	Semafor (1ball) US30,H1: uninit reason 4
+0	10:03:23.156	pipsometer_5_decimal US30,H1: uninit reason 4
+0	10:03:23.156	SweetSpotsGOLD_TRO_MODIFIED_VERSION(Bullforyou.com) US30,H1: uninit reason 4
+0	10:03:23.159	TMA+CG mladen NRP TEAMTRADER7 US30,H1: uninit reason 4
+0	10:03:23.161	LSMA_in_Color US30,H1: uninit reason 4
+0	10:03:23.161	ZeroLag_MACD US30,H1: uninit reason 4
+0	10:03:23.161	Divergence_MACD_FX5_V1.1 US30,H1: uninit reason 4
+0	10:03:23.180	ticks-volume4 US30,H1: uninit reason 4
+0	10:03:23.180	MarketMarkers_v1.1 DAX,H1: uninit reason 4
+0	10:03:23.184	_HOD_LOD_Close_1 DAX,H1: uninit reason 4
+0	10:03:23.184	HighLight_Pins DAX,H1: uninit reason 4
+0	10:03:23.186	ZigZag&HiLoValues v2.4 DAX,H1: uninit reason 4
+0	10:03:23.188	Magnified_Market_Price DAX,H1: uninit reason 4
+0	10:03:23.188	Semafor (1ball) DAX,H1: uninit reason 4
+0	10:03:23.188	pipsometer_5_decimal DAX,H1: uninit reason 4
+0	10:03:23.188	SweetSpotsGOLD_TRO_MODIFIED_VERSION(Bullforyou.com) DAX,H1: uninit reason 4
+0	10:03:23.192	TMA+CG mladen NRP TEAMTRADER7 DAX,H1: uninit reason 4
+0	10:03:23.193	LSMA_in_Color DAX,H1: uninit reason 4
+0	10:03:23.193	ZeroLag_MACD DAX,H1: uninit reason 4
+0	10:03:23.193	Divergence_MACD_FX5_V1.1 DAX,H1: uninit reason 4
+0	10:03:23.210	ticks-volume4 DAX,H1: uninit reason 4
+0	10:03:23.210	MarketMarkers_v1.1 SPX500,H1: uninit reason 4
+0	10:03:23.213	_HOD_LOD_Close_1 SPX500,H1: uninit reason 4
+0	10:03:23.213	HighLight_Pins SPX500,H1: uninit reason 4
+0	10:03:23.214	ZigZag&HiLoValues v2.4 SPX500,H1: uninit reason 4
+0	10:03:23.217	Magnified_Market_Price SPX500,H1: uninit reason 4
+0	10:03:23.217	Semafor (1ball) SPX500,H1: uninit reason 4
+0	10:03:23.217	pipsometer_5_decimal SPX500,H1: uninit reason 4
+0	10:03:23.217	SweetSpotsGOLD_TRO_MODIFIED_VERSION(Bullforyou.com) SPX500,H1: uninit reason 4
+0	10:03:23.219	TMA+CG mladen NRP TEAMTRADER7 SPX500,H1: uninit reason 4
+0	10:03:23.220	LSMA_in_Color SPX500,H1: uninit reason 4
+0	10:03:23.220	ZeroLag_MACD SPX500,H1: uninit reason 4
+0	10:03:23.220	Divergence_MACD_FX5_V1.1 SPX500,H1: uninit reason 4
+0	10:03:23.235	ticks-volume4 SPX500,H1: uninit reason 4
+0	10:03:23.235	MarketMarkers_v1.1 NAS100,H1: uninit reason 4
+0	10:03:23.238	_HOD_LOD_Close_1 NAS100,H1: uninit reason 4
+0	10:03:23.238	HighLight_Pins NAS100,H1: uninit reason 4
+0	10:03:23.239	ZigZag&HiLoValues v2.4 NAS100,H1: uninit reason 4
+0	10:03:23.242	Magnified_Market_Price NAS100,H1: uninit reason 4
+0	10:03:23.242	Semafor (1ball) NAS100,H1: uninit reason 4
+0	10:03:23.242	pipsometer_5_decimal NAS100,H1: uninit reason 4
+0	10:03:23.242	SweetSpotsGOLD_TRO_MODIFIED_VERSION(Bullforyou.com) NAS100,H1: uninit reason 4
+0	10:03:23.245	TMA+CG mladen NRP TEAMTRADER7 NAS100,H1: uninit reason 4
+0	10:03:23.247	LSMA_in_Color NAS100,H1: uninit reason 4
+0	10:03:23.247	ZeroLag_MACD NAS100,H1: uninit reason 4
+0	10:03:23.247	Divergence_MACD_FX5_V1.1 NAS100,H1: uninit reason 4
+0	10:03:23.265	ticks-volume4 NAS100,H1: uninit reason 4
+0	10:03:23.304	Automated trading disabled
+3	10:03:23.304	Automated trading disabled because profile has been changed
+0	10:03:23.332	Custom indicator MarketMarkers_v1.1 NAS100,H1: removed
+0	10:03:23.333	Custom indicator _HOD_LOD_Close_1 NAS100,H1: removed
+0	10:03:23.335	Custom indicator HighLight_Pins NAS100,H1: removed
+0	10:03:23.336	Custom indicator ZigZag&HiLoValues v2.4 NAS100,H1: removed
+0	10:03:23.337	Custom indicator Magnified_Market_Price NAS100,H1: removed
+0	10:03:23.338	Custom indicator Semafor (1ball) NAS100,H1: removed
+0	10:03:23.340	Custom indicator pipsometer_5_decimal NAS100,H1: removed
+0	10:03:23.341	Custom indicator SweetSpotsGOLD_TRO_MODIFIED_VERSION(Bullforyou.com) NAS100,H1: removed
+0	10:03:23.342	Custom indicator TMA+CG mladen NRP TEAMTRADER7 NAS100,H1: removed
+0	10:03:23.344	Custom indicator LSMA_in_Color NAS100,H1: removed
+0	10:03:23.345	Custom indicator ZeroLag_MACD NAS100,H1: removed
+0	10:03:23.347	Custom indicator Divergence_MACD_FX5_V1.1 NAS100,H1: removed
+0	10:03:23.348	Custom indicator ticks-volume4 NAS100,H1: removed
+0	10:03:23.384	Custom indicator MarketMarkers_v1.1 SPX500,H1: removed
+0	10:03:23.385	Custom indicator _HOD_LOD_Close_1 SPX500,H1: removed
+0	10:03:23.387	Custom indicator HighLight_Pins SPX500,H1: removed
+0	10:03:23.388	Custom indicator ZigZag&HiLoValues v2.4 SPX500,H1: removed
+0	10:03:23.389	Custom indicator Magnified_Market_Price SPX500,H1: removed
+0	10:03:23.391	Custom indicator Semafor (1ball) SPX500,H1: removed
+0	10:03:23.392	Custom indicator pipsometer_5_decimal SPX500,H1: removed
+0	10:03:23.394	Custom indicator SweetSpotsGOLD_TRO_MODIFIED_VERSION(Bullforyou.com) SPX500,H1: removed
+0	10:03:23.395	Custom indicator TMA+CG mladen NRP TEAMTRADER7 SPX500,H1: removed
+0	10:03:23.397	Custom indicator LSMA_in_Color SPX500,H1: removed
+0	10:03:23.398	Custom indicator ZeroLag_MACD SPX500,H1: removed
+0	10:03:23.399	Custom indicator Divergence_MACD_FX5_V1.1 SPX500,H1: removed
+0	10:03:23.401	Custom indicator ticks-volume4 SPX500,H1: removed
+0	10:03:23.429	Custom indicator MarketMarkers_v1.1 DAX,H1: removed
+0	10:03:23.430	Custom indicator _HOD_LOD_Close_1 DAX,H1: removed
+0	10:03:23.431	Custom indicator HighLight_Pins DAX,H1: removed
+0	10:03:23.432	Custom indicator ZigZag&HiLoValues v2.4 DAX,H1: removed
+0	10:03:23.434	Custom indicator Magnified_Market_Price DAX,H1: removed
+0	10:03:23.435	Custom indicator Semafor (1ball) DAX,H1: removed
+0	10:03:23.436	Custom indicator pipsometer_5_decimal DAX,H1: removed
+0	10:03:23.438	Custom indicator SweetSpotsGOLD_TRO_MODIFIED_VERSION(Bullforyou.com) DAX,H1: removed
+0	10:03:23.439	Custom indicator TMA+CG mladen NRP TEAMTRADER7 DAX,H1: removed
+0	10:03:23.440	Custom indicator LSMA_in_Color DAX,H1: removed
+0	10:03:23.442	Custom indicator ZeroLag_MACD DAX,H1: removed
+0	10:03:23.443	Custom indicator Divergence_MACD_FX5_V1.1 DAX,H1: removed
+0	10:03:23.445	Custom indicator ticks-volume4 DAX,H1: removed
+0	10:03:23.462	Custom indicator MarketMarkers_v1.1 US30,H1: removed
+0	10:03:23.463	Custom indicator _HOD_LOD_Close_1 US30,H1: removed
+0	10:03:23.464	Custom indicator HighLight_Pins US30,H1: removed
+0	10:03:23.466	Custom indicator ZigZag&HiLoValues v2.4 US30,H1: removed
+0	10:03:23.467	Custom indicator Magnified_Market_Price US30,H1: removed
+0	10:03:23.468	Custom indicator Semafor (1ball) US30,H1: removed
+0	10:03:23.469	Custom indicator pipsometer_5_decimal US30,H1: removed
+0	10:03:23.471	Custom indicator SweetSpotsGOLD_TRO_MODIFIED_VERSION(Bullforyou.com) US30,H1: removed
+0	10:03:23.472	Custom indicator TMA+CG mladen NRP TEAMTRADER7 US30,H1: removed
+0	10:03:23.473	Custom indicator LSMA_in_Color US30,H1: removed
+0	10:03:23.475	Custom indicator ZeroLag_MACD US30,H1: removed
+0	10:03:23.476	Custom indicator Divergence_MACD_FX5_V1.1 US30,H1: removed
+0	10:03:23.478	Custom indicator ticks-volume4 US30,H1: removed
+0	10:03:23.525	Custom indicator MarketMarkers_v1.1 US30,M1: loaded successfully
+0	10:03:23.535	Custom indicator _HOD_LOD_Close_1 US30,M1: loaded successfully
+0	10:03:23.545	Custom indicator HighLight_Pins US30,M1: loaded successfully
+0	10:03:23.555	Custom indicator ZigZag&HiLoValues v2.4 US30,M1: loaded successfully
+0	10:03:23.564	Custom indicator Magnified_Market_Price US30,M1: loaded successfully
+0	10:03:23.573	Custom indicator Semafor (1ball) US30,M1: loaded successfully
+0	10:03:23.582	Custom indicator pipsometer_5_decimal US30,M1: loaded successfully
+0	10:03:23.592	Custom indicator SweetSpotsGOLD_TRO_MODIFIED_VERSION(Bullforyou.com) US30,M1: loaded successfully
+0	10:03:23.602	Custom indicator TMA+CG mladen NRP TEAMTRADER7 US30,M1: loaded successfully
+0	10:03:23.611	Custom indicator LSMA_in_Color US30,M1: loaded successfully
+0	10:03:23.621	Custom indicator nn_Crosshair_Sync_2_1_3 US30,M1: loaded successfully
+0	10:03:23.630	Custom indicator ZeroLag_MACD US30,M1: loaded successfully
+0	10:03:23.641	Custom indicator Divergence_MACD_FX5_V1.1 US30,M1: loaded successfully
+0	10:03:23.649	Custom indicator ticks-volume4 US30,M1: loaded successfully
+0	10:03:23.660	Expert EdhoTraderToolEA US30,M1: loaded successfully
+0	10:03:23.661	EdhoTraderToolEA US30,M1 inputs: MMHELP=MoneyManagement; RiskMethod=0; LotSize=0.1; Percent=0.5; Amount=10.0; StopLoss=1500; TakeProfit=5000; Slippage=3; NotifyByAlert=true; Comm=ALT; UseMainComment=false; useSLTPLines=true; Line1=L1; Line2=L2; GUIMode=0; UseExtraButton=true; ebhlp=EXTRA CLOSE BUTTON POSITION; ExtraButtonCorner=3; ExtraButtonXOffset=10; ExtraButtonYOffset=160; ExtraButtonW=100; ExtraButtonH=70; BEPips=1000.0; BEPlusPips=3.0; AutoSL=1000.0; PartialClose=0.0; FontSize=11; ButtonWidth=80; ButtonHeight=30; ResetTPLName=; linetraderinfo=*********************; Help=Put OCO after command to name if u want OCO group; Help1=Example - BAOCO, BAOCO1, SBOCO; Help2=If any OCO line is hit, all other are canceled; LotSizeHelp=L[...] specific lotsize; CommentHelp=C[..] specific comment; TrackingHelp=T(..) tracking object; RabbitHelp=R[20 10] start step; OpenOrdersSection=******************; BuyAboveLineName=BA; BuyAboveLineColor=16711680; BuyBelowLineName=BB; BuyBelowLineColor=16711680; SellAboveLineName=SA; SellAboveLineColor=255; 
+0	10:03:23.735	MarketMarkers_v1.1 US30,M1: initialized
+0	10:03:23.751	_HOD_LOD_Close_1 US30,M1: initialized
+0	10:03:23.764	HighLight_Pins US30,M1: initialized
+0	10:03:23.807	ZigZag&HiLoValues v2.4 US30,M1: initialized
+0	10:03:23.818	Magnified_Market_Price US30,M1: initialized
+0	10:03:23.830	Semafor (1ball) US30,M1: initialized
+0	10:03:23.850	pipsometer_5_decimal US30,M1: initialized
+0	10:03:23.867	SweetSpotsGOLD_TRO_MODIFIED_VERSION(Bullforyou.com) US30,M1: initialized
+0	10:03:23.882	TMA+CG mladen NRP TEAMTRADER7 US30,M1: initialized
+0	10:03:23.894	LSMA_in_Color US30,M1: initialized
+0	10:03:23.911	nn_Crosshair_Sync_2_1_3 US30,M1: initialized
+0	10:03:23.922	ZeroLag_MACD US30,M1: initialized
+0	10:03:23.941	Divergence_MACD_FX5_V1.1 US30,M1: initialized
+0	10:03:23.954	ticks-volume4 US30,M1: initialized
+0	10:03:24.452	Custom indicator Heiken Ashi US30,M5: loaded successfully
+0	10:03:24.471	Heiken Ashi US30,M5: initialized
+0	10:03:24.522	Custom indicator nn_Crosshair_Sync_2_1_3 US30,M5: loaded successfully
+0	10:03:24.538	nn_Crosshair_Sync_2_1_3 US30,M5: initialized
+0	10:03:24.595	Custom indicator HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,M5: loaded successfully
+0	10:03:24.603	Custom indicator nn_Crosshair_Sync_2_1_3 US30,M5: loaded successfully
+0	10:03:24.621	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,M5: initialized
+0	10:03:24.637	nn_Crosshair_Sync_2_1_3 US30,M5: initialized
+0	10:03:25.486	EdhoTraderToolEA US30,M1: initialized
+0	10:10:12.798	nn_Crosshair_Sync_2_1_3 US30,M5: uninit reason 3
+0	10:10:12.798	nn_Crosshair_Sync_2_1_3 US30,M1: initialized

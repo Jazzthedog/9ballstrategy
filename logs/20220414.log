@@ -1,0 +1,53 @@
+1	01:35:23.049	'2364914': datacenter connecting failed [6]
+0	01:35:44.526	'2364914': login on Osprey-Demo through DC03 (ping: 132.46 ms)
+0	01:35:46.177	'2364914': login datacenter on Osprey-Demo through DC03 (ping: 132.46 ms)
+0	01:35:46.567	'2364914': previous successful authorization performed from 99.229.64.240
+0	01:36:17.630	'2364914': auto connecting to a better access point DC10 (ping is 101.84 ms)
+0	01:36:18.045	'2364914': login on Osprey-Demo through DC10 (ping: 101.84 ms)
+0	01:36:18.996	'2364914': login datacenter on Osprey-Demo through DC10 (ping: 101.84 ms)
+0	01:36:19.361	'2364914': previous successful authorization performed from 99.229.64.240
+2	12:32:00.039	Custom indicator MarketMarkers_v1.1 US30,M5: removed
+2	12:32:00.040	Custom indicator _HOD_LOD_Close_1 US30,M5: removed
+2	12:32:00.042	Custom indicator HighLight_Pins US30,M5: removed
+2	12:32:00.044	Custom indicator ZigZag&HiLoValues v2.4 US30,M5: removed
+2	12:32:00.045	Custom indicator Magnified_Market_Price US30,M5: removed
+2	12:32:00.047	Custom indicator Semafor (1ball) US30,M5: removed
+2	12:32:00.049	Custom indicator pipsometer_5_decimal US30,M5: removed
+2	12:32:00.052	Custom indicator SweetSpotsGOLD_TRO_MODIFIED_VERSION(Bullforyou.com) US30,M5: removed
+2	12:32:00.053	Custom indicator TMA+CG mladen NRP TEAMTRADER7 US30,M5: removed
+2	12:32:00.055	Custom indicator LSMA_in_Color US30,M5: removed
+2	12:32:00.057	Custom indicator ZeroLag_MACD US30,M5: removed
+2	12:32:00.060	Custom indicator Divergence_MACD_FX5_V1.1 US30,M5: removed
+2	12:32:00.063	Custom indicator ticks-volume4 US30,M5: removed
+2	12:50:15.227	Custom indicator MarketMarkers_v1.1 US30,M1: removed
+2	12:50:15.229	Custom indicator _HOD_LOD_Close_1 US30,M1: removed
+2	12:50:15.230	Custom indicator HighLight_Pins US30,M1: removed
+2	12:50:15.231	Custom indicator ZigZag&HiLoValues v2.4 US30,M1: removed
+2	12:50:15.233	Custom indicator Magnified_Market_Price US30,M1: removed
+2	12:50:15.234	Custom indicator Semafor (1ball) US30,M1: removed
+2	12:50:15.236	Custom indicator pipsometer_5_decimal US30,M1: removed
+2	12:50:15.237	Custom indicator SweetSpotsGOLD_TRO_MODIFIED_VERSION(Bullforyou.com) US30,M1: removed
+2	12:50:15.240	Custom indicator TMA+CG mladen NRP TEAMTRADER7 US30,M1: removed
+2	12:50:15.241	Custom indicator LSMA_in_Color US30,M1: removed
+2	12:50:15.243	Custom indicator ZeroLag_MACD US30,M1: removed
+2	12:50:15.244	Custom indicator Divergence_MACD_FX5_V1.1 US30,M1: removed
+2	12:50:15.246	Custom indicator ticks-volume4 US30,M1: removed
+2	12:50:15.279	Custom indicator MarketMarkers_v1.1 US30,M1: loaded successfully
+2	12:50:15.299	Custom indicator _HOD_LOD_Close_1 US30,M1: loaded successfully
+2	12:50:15.313	Custom indicator HighLight_Pins US30,M1: loaded successfully
+2	12:50:15.331	Custom indicator ZigZag&HiLoValues v2.4 US30,M1: loaded successfully
+2	12:50:15.348	Custom indicator Magnified_Market_Price US30,M1: loaded successfully
+2	12:50:15.365	Custom indicator Semafor (1ball) US30,M1: loaded successfully
+2	12:50:15.384	Custom indicator pipsometer_5_decimal US30,M1: loaded successfully
+2	12:50:15.400	Custom indicator SweetSpotsGOLD_TRO_MODIFIED_VERSION(Bullforyou.com) US30,M1: loaded successfully
+2	12:50:15.411	Custom indicator TMA+CG mladen NRP TEAMTRADER7 US30,M1: loaded successfully
+2	12:50:15.427	Custom indicator LSMA_in_Color US30,M1: loaded successfully
+2	12:50:15.441	Custom indicator ZeroLag_MACD US30,M1: loaded successfully
+2	12:50:15.463	Custom indicator Divergence_MACD_FX5_V1.1 US30,M1: loaded successfully
+2	12:50:15.481	Custom indicator ticks-volume4 US30,M1: loaded successfully
+2	12:50:15.502	Expert EdhoTraderToolEA US30,M1: loaded successfully
+2	12:51:20.182	Custom indicator TMA+CG mladen NRP TEAMTRADER7 US30,M5: removed
+0	22:15:42.152	'2364914': login on Osprey-Demo through DC11 (ping: 116.51 ms)
+0	22:15:43.597	'2364914': login datacenter on Osprey-Demo through DC11 (ping: 116.51 ms)
+0	22:15:43.981	'2364914': previous successful authorization performed from 99.229.64.240
+0	22:16:25.962	'2364914': ping to current access point DC11 is 132.01 ms

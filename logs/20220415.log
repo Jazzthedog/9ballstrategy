@@ -1,0 +1,16 @@
+1	03:15:31.412	'2364914': datacenter connecting failed [6]
+0	03:15:52.888	'2364914': login on Osprey-Demo through DC04 (ping: 112.74 ms)
+0	03:15:55.003	'2364914': login datacenter on Osprey-Demo through DC04 (ping: 112.74 ms)
+0	03:15:55.391	'2364914': previous successful authorization performed from 99.229.64.240
+0	03:16:47.020	'2364914': auto connecting to a better access point DC02 (ping is 145.77 ms)
+0	03:16:48.001	'2364914': login on Osprey-Demo through DC02 (ping: 145.77 ms)
+0	03:16:49.486	'2364914': login datacenter on Osprey-Demo through DC02 (ping: 145.77 ms)
+0	03:16:49.852	'2364914': previous successful authorization performed from 99.229.64.240
+2	13:00:30.702	Custom indicator HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,M5: loaded successfully
+2	13:01:26.140	Custom indicator HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,M5: removed
+2	13:22:19.117	Custom indicator HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,H1: loaded successfully
+2	13:41:28.694	Custom indicator nn_Crosshair_Sync_2_1_3 US30,M5: loaded successfully
+2	13:47:19.244	Custom indicator nn_Crosshair_Sync_2_1_3 US30,M5: loaded successfully
+2	13:48:07.798	Custom indicator nn_Crosshair_Sync_2_1_3 US30,M1: loaded successfully
+0	23:27:05.742	System to be shutdown, request for close Osprey MT4
+0	23:27:06.960	Osprey MT4 build 1355 stopped because system shutdown

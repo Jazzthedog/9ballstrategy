@@ -1,0 +1,15 @@
+1	03:00:19.500	'2364914': ping failed
+1	03:00:19.609	'2364914': ping failed
+1	03:00:19.610	'2364914': datacenter connecting failed [6]
+0	03:00:26.632	'2364914': login on Osprey-Demo through DC10 (ping: 105.45 ms)
+0	03:00:28.018	'2364914': login datacenter on Osprey-Demo through DC10 (ping: 105.45 ms)
+0	03:00:28.425	'2364914': previous successful authorization performed from 99.229.64.240
+1	06:39:59.585	'2364914': ping failed
+0	06:40:02.402	'2364914': login on Osprey-Demo through DC02 (ping: 145.55 ms)
+0	06:40:03.627	'2364914': login datacenter on Osprey-Demo through DC02 (ping: 145.55 ms)
+0	06:40:04.151	'2364914': previous successful authorization performed from 99.229.64.240
+0	06:40:07.777	'2364914': auto connecting to a better access point DC11 (ping is 111.42 ms)
+0	06:40:08.597	'2364914': login on Osprey-Demo through DC11 (ping: 111.42 ms)
+0	06:40:09.605	'2364914': login datacenter on Osprey-Demo through DC11 (ping: 111.42 ms)
+0	06:40:10.183	'2364914': previous successful authorization performed from 99.229.64.240
+0	09:17:35.434	'2364914': order sell market 0.01 US30 sl: 0.00 tp: 0.00

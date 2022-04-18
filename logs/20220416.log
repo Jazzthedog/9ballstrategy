@@ -1,0 +1,159 @@
+0	10:02:33.231	Osprey MT4 build 1355 started (Osprey Ltd)
+0	10:02:33.231	Windows 10 Pro x64, IE 11, UAC, 8 x Intel Core i7-6920HQ  @ 2.90GHz, Memory: 25236 / 32659 Mb, Disk: 149 / 476 Gb, GMT-5
+0	10:02:33.231	Data Folder: C:\Users\Admin\AppData\Roaming\MetaQuotes\Terminal\305EEB173F1063651E07AC733A59CDEC
+2	10:02:36.124	Custom indicator MarketMarkers_v1.1 US30,H1: loaded successfully
+2	10:02:36.135	Custom indicator _HOD_LOD_Close_1 US30,H1: loaded successfully
+2	10:02:36.143	Custom indicator HighLight_Pins US30,H1: loaded successfully
+2	10:02:36.153	Custom indicator ZigZag&HiLoValues v2.4 US30,H1: loaded successfully
+2	10:02:36.162	Custom indicator Magnified_Market_Price US30,H1: loaded successfully
+2	10:02:36.171	Custom indicator Semafor (1ball) US30,H1: loaded successfully
+2	10:02:36.180	Custom indicator pipsometer_5_decimal US30,H1: loaded successfully
+2	10:02:36.190	Custom indicator SweetSpotsGOLD_TRO_MODIFIED_VERSION(Bullforyou.com) US30,H1: loaded successfully
+2	10:02:36.200	Custom indicator TMA+CG mladen NRP TEAMTRADER7 US30,H1: loaded successfully
+2	10:02:36.209	Custom indicator LSMA_in_Color US30,H1: loaded successfully
+2	10:02:36.218	Custom indicator ZeroLag_MACD US30,H1: loaded successfully
+2	10:02:36.244	Custom indicator Divergence_MACD_FX5_V1.1 US30,H1: loaded successfully
+2	10:02:36.253	Custom indicator ticks-volume4 US30,H1: loaded successfully
+2	10:02:36.973	Custom indicator MarketMarkers_v1.1 DAX,H1: loaded successfully
+2	10:02:36.984	Custom indicator _HOD_LOD_Close_1 DAX,H1: loaded successfully
+2	10:02:36.992	Custom indicator HighLight_Pins DAX,H1: loaded successfully
+2	10:02:37.003	Custom indicator ZigZag&HiLoValues v2.4 DAX,H1: loaded successfully
+2	10:02:37.012	Custom indicator Magnified_Market_Price DAX,H1: loaded successfully
+2	10:02:37.021	Custom indicator Semafor (1ball) DAX,H1: loaded successfully
+2	10:02:37.031	Custom indicator pipsometer_5_decimal DAX,H1: loaded successfully
+2	10:02:37.040	Custom indicator SweetSpotsGOLD_TRO_MODIFIED_VERSION(Bullforyou.com) DAX,H1: loaded successfully
+2	10:02:37.052	Custom indicator TMA+CG mladen NRP TEAMTRADER7 DAX,H1: loaded successfully
+2	10:02:37.063	Custom indicator LSMA_in_Color DAX,H1: loaded successfully
+2	10:02:37.072	Custom indicator ZeroLag_MACD DAX,H1: loaded successfully
+2	10:02:37.101	Custom indicator Divergence_MACD_FX5_V1.1 DAX,H1: loaded successfully
+2	10:02:37.111	Custom indicator ticks-volume4 DAX,H1: loaded successfully
+2	10:02:37.808	Custom indicator MarketMarkers_v1.1 SPX500,H1: loaded successfully
+2	10:02:37.818	Custom indicator _HOD_LOD_Close_1 SPX500,H1: loaded successfully
+2	10:02:37.830	Custom indicator HighLight_Pins SPX500,H1: loaded successfully
+2	10:02:37.858	Custom indicator ZigZag&HiLoValues v2.4 SPX500,H1: loaded successfully
+2	10:02:37.867	Custom indicator Magnified_Market_Price SPX500,H1: loaded successfully
+2	10:02:37.877	Custom indicator Semafor (1ball) SPX500,H1: loaded successfully
+2	10:02:37.886	Custom indicator pipsometer_5_decimal SPX500,H1: loaded successfully
+2	10:02:37.895	Custom indicator SweetSpotsGOLD_TRO_MODIFIED_VERSION(Bullforyou.com) SPX500,H1: loaded successfully
+2	10:02:37.903	Custom indicator TMA+CG mladen NRP TEAMTRADER7 SPX500,H1: loaded successfully
+2	10:02:37.913	Custom indicator LSMA_in_Color SPX500,H1: loaded successfully
+2	10:02:37.922	Custom indicator ZeroLag_MACD SPX500,H1: loaded successfully
+2	10:02:37.949	Custom indicator Divergence_MACD_FX5_V1.1 SPX500,H1: loaded successfully
+2	10:02:37.957	Custom indicator ticks-volume4 SPX500,H1: loaded successfully
+2	10:02:38.666	Custom indicator MarketMarkers_v1.1 NAS100,H1: loaded successfully
+2	10:02:38.675	Custom indicator _HOD_LOD_Close_1 NAS100,H1: loaded successfully
+2	10:02:38.684	Custom indicator HighLight_Pins NAS100,H1: loaded successfully
+2	10:02:38.694	Custom indicator ZigZag&HiLoValues v2.4 NAS100,H1: loaded successfully
+2	10:02:38.703	Custom indicator Magnified_Market_Price NAS100,H1: loaded successfully
+2	10:02:38.713	Custom indicator Semafor (1ball) NAS100,H1: loaded successfully
+2	10:02:38.722	Custom indicator pipsometer_5_decimal NAS100,H1: loaded successfully
+2	10:02:38.731	Custom indicator SweetSpotsGOLD_TRO_MODIFIED_VERSION(Bullforyou.com) NAS100,H1: loaded successfully
+2	10:02:38.741	Custom indicator TMA+CG mladen NRP TEAMTRADER7 NAS100,H1: loaded successfully
+2	10:02:38.750	Custom indicator LSMA_in_Color NAS100,H1: loaded successfully
+2	10:02:38.759	Custom indicator ZeroLag_MACD NAS100,H1: loaded successfully
+2	10:02:38.786	Custom indicator Divergence_MACD_FX5_V1.1 NAS100,H1: loaded successfully
+2	10:02:38.795	Custom indicator ticks-volume4 NAS100,H1: loaded successfully
+0	10:02:40.978	'2364914': login on Osprey-Demo through DC02 (ping: 145.77 ms)
+0	10:02:42.409	'2364914': login datacenter on Osprey-Demo through DC02 (ping: 145.77 ms)
+0	10:02:42.745	'2364914': previous successful authorization performed from 99.229.64.240
+0	10:03:10.176	'2364914': auto connecting to a better access point DC11 (ping is 102.12 ms)
+0	10:03:11.068	'2364914': login on Osprey-Demo through DC11 (ping: 102.12 ms)
+0	10:03:12.681	'2364914': login datacenter on Osprey-Demo through DC11 (ping: 102.12 ms)
+0	10:03:13.004	'2364914': previous successful authorization performed from 99.229.64.240
+0	10:03:23.304	Automated trading disabled
+3	10:03:23.304	Automated trading disabled because profile has been changed
+2	10:03:23.332	Custom indicator MarketMarkers_v1.1 NAS100,H1: removed
+2	10:03:23.333	Custom indicator _HOD_LOD_Close_1 NAS100,H1: removed
+2	10:03:23.335	Custom indicator HighLight_Pins NAS100,H1: removed
+2	10:03:23.336	Custom indicator ZigZag&HiLoValues v2.4 NAS100,H1: removed
+2	10:03:23.337	Custom indicator Magnified_Market_Price NAS100,H1: removed
+2	10:03:23.338	Custom indicator Semafor (1ball) NAS100,H1: removed
+2	10:03:23.340	Custom indicator pipsometer_5_decimal NAS100,H1: removed
+2	10:03:23.341	Custom indicator SweetSpotsGOLD_TRO_MODIFIED_VERSION(Bullforyou.com) NAS100,H1: removed
+2	10:03:23.342	Custom indicator TMA+CG mladen NRP TEAMTRADER7 NAS100,H1: removed
+2	10:03:23.344	Custom indicator LSMA_in_Color NAS100,H1: removed
+2	10:03:23.345	Custom indicator ZeroLag_MACD NAS100,H1: removed
+2	10:03:23.347	Custom indicator Divergence_MACD_FX5_V1.1 NAS100,H1: removed
+2	10:03:23.348	Custom indicator ticks-volume4 NAS100,H1: removed
+2	10:03:23.384	Custom indicator MarketMarkers_v1.1 SPX500,H1: removed
+2	10:03:23.385	Custom indicator _HOD_LOD_Close_1 SPX500,H1: removed
+2	10:03:23.387	Custom indicator HighLight_Pins SPX500,H1: removed
+2	10:03:23.388	Custom indicator ZigZag&HiLoValues v2.4 SPX500,H1: removed
+2	10:03:23.389	Custom indicator Magnified_Market_Price SPX500,H1: removed
+2	10:03:23.390	Custom indicator Semafor (1ball) SPX500,H1: removed
+2	10:03:23.392	Custom indicator pipsometer_5_decimal SPX500,H1: removed
+2	10:03:23.394	Custom indicator SweetSpotsGOLD_TRO_MODIFIED_VERSION(Bullforyou.com) SPX500,H1: removed
+2	10:03:23.395	Custom indicator TMA+CG mladen NRP TEAMTRADER7 SPX500,H1: removed
+2	10:03:23.397	Custom indicator LSMA_in_Color SPX500,H1: removed
+2	10:03:23.398	Custom indicator ZeroLag_MACD SPX500,H1: removed
+2	10:03:23.399	Custom indicator Divergence_MACD_FX5_V1.1 SPX500,H1: removed
+2	10:03:23.401	Custom indicator ticks-volume4 SPX500,H1: removed
+2	10:03:23.429	Custom indicator MarketMarkers_v1.1 DAX,H1: removed
+2	10:03:23.430	Custom indicator _HOD_LOD_Close_1 DAX,H1: removed
+2	10:03:23.431	Custom indicator HighLight_Pins DAX,H1: removed
+2	10:03:23.432	Custom indicator ZigZag&HiLoValues v2.4 DAX,H1: removed
+2	10:03:23.434	Custom indicator Magnified_Market_Price DAX,H1: removed
+2	10:03:23.435	Custom indicator Semafor (1ball) DAX,H1: removed
+2	10:03:23.436	Custom indicator pipsometer_5_decimal DAX,H1: removed
+2	10:03:23.438	Custom indicator SweetSpotsGOLD_TRO_MODIFIED_VERSION(Bullforyou.com) DAX,H1: removed
+2	10:03:23.439	Custom indicator TMA+CG mladen NRP TEAMTRADER7 DAX,H1: removed
+2	10:03:23.440	Custom indicator LSMA_in_Color DAX,H1: removed
+2	10:03:23.442	Custom indicator ZeroLag_MACD DAX,H1: removed
+2	10:03:23.443	Custom indicator Divergence_MACD_FX5_V1.1 DAX,H1: removed
+2	10:03:23.445	Custom indicator ticks-volume4 DAX,H1: removed
+2	10:03:23.462	Custom indicator MarketMarkers_v1.1 US30,H1: removed
+2	10:03:23.463	Custom indicator _HOD_LOD_Close_1 US30,H1: removed
+2	10:03:23.464	Custom indicator HighLight_Pins US30,H1: removed
+2	10:03:23.466	Custom indicator ZigZag&HiLoValues v2.4 US30,H1: removed
+2	10:03:23.467	Custom indicator Magnified_Market_Price US30,H1: removed
+2	10:03:23.468	Custom indicator Semafor (1ball) US30,H1: removed
+2	10:03:23.469	Custom indicator pipsometer_5_decimal US30,H1: removed
+2	10:03:23.471	Custom indicator SweetSpotsGOLD_TRO_MODIFIED_VERSION(Bullforyou.com) US30,H1: removed
+2	10:03:23.472	Custom indicator TMA+CG mladen NRP TEAMTRADER7 US30,H1: removed
+2	10:03:23.473	Custom indicator LSMA_in_Color US30,H1: removed
+2	10:03:23.475	Custom indicator ZeroLag_MACD US30,H1: removed
+2	10:03:23.476	Custom indicator Divergence_MACD_FX5_V1.1 US30,H1: removed
+2	10:03:23.478	Custom indicator ticks-volume4 US30,H1: removed
+2	10:03:23.525	Custom indicator MarketMarkers_v1.1 US30,M1: loaded successfully
+2	10:03:23.535	Custom indicator _HOD_LOD_Close_1 US30,M1: loaded successfully
+2	10:03:23.545	Custom indicator HighLight_Pins US30,M1: loaded successfully
+2	10:03:23.555	Custom indicator ZigZag&HiLoValues v2.4 US30,M1: loaded successfully
+2	10:03:23.564	Custom indicator Magnified_Market_Price US30,M1: loaded successfully
+2	10:03:23.573	Custom indicator Semafor (1ball) US30,M1: loaded successfully
+2	10:03:23.582	Custom indicator pipsometer_5_decimal US30,M1: loaded successfully
+2	10:03:23.592	Custom indicator SweetSpotsGOLD_TRO_MODIFIED_VERSION(Bullforyou.com) US30,M1: loaded successfully
+2	10:03:23.602	Custom indicator TMA+CG mladen NRP TEAMTRADER7 US30,M1: loaded successfully
+2	10:03:23.611	Custom indicator LSMA_in_Color US30,M1: loaded successfully
+2	10:03:23.621	Custom indicator nn_Crosshair_Sync_2_1_3 US30,M1: loaded successfully
+2	10:03:23.630	Custom indicator ZeroLag_MACD US30,M1: loaded successfully
+2	10:03:23.641	Custom indicator Divergence_MACD_FX5_V1.1 US30,M1: loaded successfully
+2	10:03:23.649	Custom indicator ticks-volume4 US30,M1: loaded successfully
+2	10:03:23.660	Expert EdhoTraderToolEA US30,M1: loaded successfully
+2	10:03:24.452	Custom indicator Heiken Ashi US30,M5: loaded successfully
+2	10:03:24.522	Custom indicator nn_Crosshair_Sync_2_1_3 US30,M5: loaded successfully
+2	10:03:24.595	Custom indicator HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,M5: loaded successfully
+2	10:03:24.603	Custom indicator nn_Crosshair_Sync_2_1_3 US30,M5: loaded successfully
+1	12:01:45.072	'2364914': ping failed
+1	12:01:45.073	'2364914': ping failed
+0	12:01:47.516	'2364914': login on Osprey-Demo through DC11 (ping: 102.12 ms)
+0	12:01:48.851	'2364914': login datacenter on Osprey-Demo through DC11 (ping: 102.12 ms)
+0	12:01:50.032	'2364914': previous successful authorization performed from 99.229.64.240
+0	12:02:17.620	'2364914': ping to current access point DC11 is 103.17 ms
+0	12:02:25.508	'2364914': login on Osprey-Demo through DC11 (ping: 103.17 ms)
+0	12:02:26.346	'2364914': login datacenter on Osprey-Demo through DC11 (ping: 103.17 ms)
+0	12:02:26.664	'2364914': previous successful authorization performed from 99.229.64.240
+1	16:05:43.979	'2364914': ping failed
+1	16:05:43.979	'2364914': ping failed
+0	16:05:49.056	'2364914': login on Osprey-Demo through DC11 (ping: 103.17 ms)
+0	16:05:50.058	'2364914': login datacenter on Osprey-Demo through DC11 (ping: 103.17 ms)
+0	16:05:50.386	'2364914': previous successful authorization performed from 99.229.64.240
+1	21:01:15.500	'2364914': ping failed
+0	21:01:15.523	'2364914': auto connecting to a better access point DC11 (ping is 110.42 ms)
+1	21:01:15.582	'2364914': ping failed
+1	21:01:17.392	'2364914': datacenter connecting failed [6]
+0	21:01:20.120	'2364914': login on Osprey-Demo through DC11 (ping: 110.42 ms)
+0	21:01:21.488	'2364914': login datacenter on Osprey-Demo through DC11 (ping: 110.42 ms)
+0	21:01:21.926	'2364914': previous successful authorization performed from 99.229.64.240
+0	21:02:12.476	'2364914': login on Osprey-Demo through DC11 (ping: 110.42 ms)
+0	21:02:13.297	'2364914': login datacenter on Osprey-Demo through DC11 (ping: 110.42 ms)
+0	21:02:13.626	'2364914': previous successful authorization performed from 99.229.64.240

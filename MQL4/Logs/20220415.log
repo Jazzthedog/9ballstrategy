@@ -1,0 +1,29 @@
+0	13:00:30.702	Custom indicator HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,M5: loaded successfully
+0	13:00:33.310	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,M5: initialized
+3	13:00:33.319	cannot open file 'C:\Users\Admin\AppData\Roaming\MetaQuotes\Terminal\305EEB173F1063651E07AC733A59CDEC\MQL4\indicators\HeikenAshiCandlesI.ex4' [2]
+3	13:00:33.320	cannot open file 'C:\Users\Admin\AppData\Roaming\MetaQuotes\Terminal\305EEB173F1063651E07AC733A59CDEC\MQL4\indicators\HeikenAshiCandlesI.ex4' [2]
+0	13:00:33.320	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,M5: need reload because of empty val
+3	13:00:33.385	cannot open file 'C:\Users\Admin\AppData\Roaming\MetaQuotes\Terminal\305EEB173F1063651E07AC733A59CDEC\MQL4\indicators\HeikenAshiCandlesI.ex4' [2]
+3	13:00:33.385	cannot open file 'C:\Users\Admin\AppData\Roaming\MetaQuotes\Terminal\305EEB173F1063651E07AC733A59CDEC\MQL4\indicators\HeikenAshiCandlesI.ex4' [2]
+0	13:00:33.385	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,M5: need reload because of empty val
+0	13:00:46.712	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,M5: uninit reason 5
+0	13:00:46.759	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,M5: initialized
+3	13:00:48.654	cannot open file 'C:\Users\Admin\AppData\Roaming\MetaQuotes\Terminal\305EEB173F1063651E07AC733A59CDEC\MQL4\indicators\HeikenAshiCandlesI.ex4' [2]
+3	13:00:48.654	cannot open file 'C:\Users\Admin\AppData\Roaming\MetaQuotes\Terminal\305EEB173F1063651E07AC733A59CDEC\MQL4\indicators\HeikenAshiCandlesI.ex4' [2]
+0	13:00:48.654	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,M5: need reload because of empty val
+0	13:01:26.139	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,M5: uninit reason 1
+0	13:01:26.140	Custom indicator HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,M5: removed
+0	13:22:19.117	Custom indicator HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,H1: loaded successfully
+0	13:22:21.008	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,H1: initialized
+0	13:28:55.571	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,H1: uninit reason 3
+0	13:28:55.573	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,M1: initialized
+0	13:28:55.587	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,M1: need reload
+0	13:28:55.711	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,M1: Alert: Osprey Ltd[2364914]-US30[ M1]- HA(M15)buy
+0	13:39:43.662	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,M1: uninit reason 3
+0	13:39:43.663	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,M5: initialized
+0	13:41:28.694	Custom indicator nn_Crosshair_Sync_2_1_3 US30,M5: loaded successfully
+0	13:41:42.968	nn_Crosshair_Sync_2_1_3 US30,M5: initialized
+0	13:47:19.244	Custom indicator nn_Crosshair_Sync_2_1_3 US30,M5: loaded successfully
+0	13:47:22.860	nn_Crosshair_Sync_2_1_3 US30,M5: initialized
+0	13:48:07.798	Custom indicator nn_Crosshair_Sync_2_1_3 US30,M1: loaded successfully
+0	13:48:09.752	nn_Crosshair_Sync_2_1_3 US30,M1: initialized
