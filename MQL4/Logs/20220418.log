@@ -91,3 +91,198 @@
 0	16:04:36.645	Custom indicator ticks-volume4 US30,M1: loaded successfully
 0	16:04:36.665	Custom indicator Divergence_MACD_FX5_V1.1 US30,M1: loaded successfully
 0	16:04:36.688	Custom indicator ZeroLag_MACD US30,M1: loaded successfully
+0	16:04:36.711	pipsometer_5_decimal US30,M1: initialized
+0	16:04:36.722	Magnified_Market_Price US30,M1: initialized
+0	16:04:36.765	ZigZag&HiLoValues v2.5 US30,M1: initialized
+0	16:04:36.782	_HOD_LOD_Close_1 US30,M1: initialized
+0	16:04:36.794	Semafor (1ball) US30,M1: initialized
+0	16:04:36.811	TMA+CG mladen NRP TEAMTRADER7 US30,M1: initialized
+0	16:04:36.831	SweetSpotsGOLD_TRO_MODIFIED_VERSION(Bullforyou.com) US30,M1: initialized
+0	16:04:36.844	ticks-volume4 US30,M1: initialized
+0	16:04:36.864	Divergence_MACD_FX5_V1.1 US30,M1: initialized
+0	16:04:36.875	ZeroLag_MACD US30,M1: initialized
+0	16:06:42.072	pipsometer_5_decimal US30,M1: uninit reason 7
+0	16:06:42.072	Magnified_Market_Price US30,M1: uninit reason 7
+0	16:06:42.072	ZigZag&HiLoValues v2.5 US30,M1: uninit reason 7
+0	16:06:42.074	_HOD_LOD_Close_1 US30,M1: uninit reason 7
+0	16:06:42.074	Semafor (1ball) US30,M1: uninit reason 7
+0	16:06:42.074	TMA+CG mladen NRP TEAMTRADER7 US30,M1: uninit reason 7
+0	16:06:42.076	SweetSpotsGOLD_TRO_MODIFIED_VERSION(Bullforyou.com) US30,M1: uninit reason 7
+0	16:06:42.080	ticks-volume4 US30,M1: uninit reason 7
+0	16:06:42.080	Divergence_MACD_FX5_V1.1 US30,M1: uninit reason 7
+0	16:06:42.097	ZeroLag_MACD US30,M1: uninit reason 7
+0	16:06:42.099	Custom indicator pipsometer_5_decimal US30,M1: removed
+0	16:06:42.100	Custom indicator Magnified_Market_Price US30,M1: removed
+0	16:06:42.101	Custom indicator ZigZag&HiLoValues v2.5 US30,M1: removed
+0	16:06:42.103	Custom indicator _HOD_LOD_Close_1 US30,M1: removed
+0	16:06:42.105	Custom indicator Semafor (1ball) US30,M1: removed
+0	16:06:42.106	Custom indicator TMA+CG mladen NRP TEAMTRADER7 US30,M1: removed
+0	16:06:42.108	Custom indicator SweetSpotsGOLD_TRO_MODIFIED_VERSION(Bullforyou.com) US30,M1: removed
+0	16:06:42.109	Custom indicator ticks-volume4 US30,M1: removed
+0	16:06:42.111	Custom indicator Divergence_MACD_FX5_V1.1 US30,M1: removed
+0	16:06:42.112	Custom indicator ZeroLag_MACD US30,M1: removed
+0	16:06:42.133	Custom indicator pipsometer_5_decimal US30,M1: loaded successfully
+0	16:06:42.143	Custom indicator Magnified_Market_Price US30,M1: loaded successfully
+3	16:06:42.144	cannot open file 'C:\Users\Admin\AppData\Roaming\MetaQuotes\Terminal\305EEB173F1063651E07AC733A59CDEC\MQL4\indicators\Xandra\HeikenAshiCandles(MTFD)I Altered  colors 4 Medium.ex4' [2]
+3	16:06:42.145	cannot open file 'C:\Users\Admin\AppData\Roaming\MetaQuotes\Terminal\305EEB173F1063651E07AC733A59CDEC\MQL4\indicators\Xandra\HeikenAshiCandles(MTFD)I Altered  colors 3 medium.ex4' [2]
+3	16:06:42.145	cannot open file 'C:\Users\Admin\AppData\Roaming\MetaQuotes\Terminal\305EEB173F1063651E07AC733A59CDEC\MQL4\indicators\Xandra\HeikenAshiCandles(MTFD)I Altered  colors 2 medium.ex4' [2]
+0	16:06:42.157	Custom indicator ZigZag&HiLoValues v2.5 US30,M1: loaded successfully
+3	16:06:42.158	cannot open file 'C:\Users\Admin\AppData\Roaming\MetaQuotes\Terminal\305EEB173F1063651E07AC733A59CDEC\MQL4\indicators\Xandra\Xandra\SupResI.ex4' [3]
+0	16:06:42.168	Custom indicator _HOD_LOD_Close_1 US30,M1: loaded successfully
+0	16:06:42.178	Custom indicator Semafor (1ball) US30,M1: loaded successfully
+0	16:06:42.192	Custom indicator TMA+CG mladen NRP TEAMTRADER7 US30,M1: loaded successfully
+3	16:06:42.193	cannot open file 'C:\Users\Admin\AppData\Roaming\MetaQuotes\Terminal\305EEB173F1063651E07AC733A59CDEC\MQL4\indicators\MR tma 7.ex4' [2]
+0	16:06:42.204	Custom indicator SweetSpotsGOLD_TRO_MODIFIED_VERSION(Bullforyou.com) US30,M1: loaded successfully
+0	16:06:42.214	Custom indicator ticks-volume4 US30,M1: loaded successfully
+0	16:06:42.224	Custom indicator Divergence_MACD_FX5_V1.1 US30,M1: loaded successfully
+0	16:06:42.244	Custom indicator ZeroLag_MACD US30,M1: loaded successfully
+0	16:06:42.267	pipsometer_5_decimal US30,M1: initialized
+0	16:06:42.279	Magnified_Market_Price US30,M1: initialized
+0	16:06:42.323	ZigZag&HiLoValues v2.5 US30,M1: initialized
+0	16:06:42.340	_HOD_LOD_Close_1 US30,M1: initialized
+0	16:06:42.352	Semafor (1ball) US30,M1: initialized
+0	16:06:42.370	TMA+CG mladen NRP TEAMTRADER7 US30,M1: initialized
+0	16:06:42.391	SweetSpotsGOLD_TRO_MODIFIED_VERSION(Bullforyou.com) US30,M1: initialized
+0	16:06:42.409	ticks-volume4 US30,M1: initialized
+0	16:06:42.429	Divergence_MACD_FX5_V1.1 US30,M1: initialized
+0	16:06:42.441	ZeroLag_MACD US30,M1: initialized
+0	16:10:56.028	pipsometer_5_decimal US30,M1: uninit reason 7
+0	16:10:56.028	Magnified_Market_Price US30,M1: uninit reason 7
+0	16:10:56.028	ZigZag&HiLoValues v2.5 US30,M1: uninit reason 7
+0	16:10:56.030	_HOD_LOD_Close_1 US30,M1: uninit reason 7
+0	16:10:56.030	Semafor (1ball) US30,M1: uninit reason 7
+0	16:10:56.030	TMA+CG mladen NRP TEAMTRADER7 US30,M1: uninit reason 7
+0	16:10:56.032	SweetSpotsGOLD_TRO_MODIFIED_VERSION(Bullforyou.com) US30,M1: uninit reason 7
+0	16:10:56.036	ticks-volume4 US30,M1: uninit reason 7
+0	16:10:56.036	Divergence_MACD_FX5_V1.1 US30,M1: uninit reason 7
+0	16:10:56.048	ZeroLag_MACD US30,M1: uninit reason 7
+0	16:10:56.050	Custom indicator pipsometer_5_decimal US30,M1: removed
+0	16:10:56.051	Custom indicator Magnified_Market_Price US30,M1: removed
+0	16:10:56.054	Custom indicator ZigZag&HiLoValues v2.5 US30,M1: removed
+0	16:10:56.056	Custom indicator _HOD_LOD_Close_1 US30,M1: removed
+0	16:10:56.057	Custom indicator Semafor (1ball) US30,M1: removed
+0	16:10:56.059	Custom indicator TMA+CG mladen NRP TEAMTRADER7 US30,M1: removed
+0	16:10:56.060	Custom indicator SweetSpotsGOLD_TRO_MODIFIED_VERSION(Bullforyou.com) US30,M1: removed
+0	16:10:56.061	Custom indicator ticks-volume4 US30,M1: removed
+0	16:10:56.062	Custom indicator Divergence_MACD_FX5_V1.1 US30,M1: removed
+0	16:10:56.064	Custom indicator ZeroLag_MACD US30,M1: removed
+0	16:10:56.084	Custom indicator pipsometer_5_decimal US30,M1: loaded successfully
+0	16:10:56.095	Custom indicator Magnified_Market_Price US30,M1: loaded successfully
+0	16:10:56.114	Custom indicator Xandra\HeikenAshiCandles(MTFD)I Altered  colors 4 Medium US30,M1: loaded successfully
+0	16:10:56.126	Custom indicator Xandra\HeikenAshiCandles(MTFD)I Altered  colors 3 medium US30,M1: loaded successfully
+0	16:10:56.142	Custom indicator Xandra\HeikenAshiCandles(MTFD)I Altered  colors 2 medium US30,M1: loaded successfully
+0	16:10:56.152	Custom indicator ZigZag&HiLoValues v2.5 US30,M1: loaded successfully
+0	16:10:56.166	Custom indicator Xandra\Xandra\SupResI US30,M1: loaded successfully
+0	16:10:56.177	Custom indicator _HOD_LOD_Close_1 US30,M1: loaded successfully
+0	16:10:56.187	Custom indicator Semafor (1ball) US30,M1: loaded successfully
+0	16:10:56.197	Custom indicator TMA+CG mladen NRP TEAMTRADER7 US30,M1: loaded successfully
+3	16:10:56.198	cannot open file 'C:\Users\Admin\AppData\Roaming\MetaQuotes\Terminal\305EEB173F1063651E07AC733A59CDEC\MQL4\indicators\MR tma 7.ex4' [2]
+0	16:10:56.208	Custom indicator SweetSpotsGOLD_TRO_MODIFIED_VERSION(Bullforyou.com) US30,M1: loaded successfully
+0	16:10:56.217	Custom indicator ticks-volume4 US30,M1: loaded successfully
+0	16:10:56.228	Custom indicator Divergence_MACD_FX5_V1.1 US30,M1: loaded successfully
+0	16:10:56.248	Custom indicator ZeroLag_MACD US30,M1: loaded successfully
+0	16:10:56.270	pipsometer_5_decimal US30,M1: initialized
+0	16:10:56.281	Magnified_Market_Price US30,M1: initialized
+0	16:10:56.298	HeikenAshiCandles(MTFD)I Altered  colors 4 Medium US30,M1: initialized
+0	16:10:56.316	HeikenAshiCandles(MTFD)I Altered  colors 3 medium US30,M1: initialized
+0	16:10:56.338	HeikenAshiCandles(MTFD)I Altered  colors 2 medium US30,M1: initialized
+0	16:10:56.379	ZigZag&HiLoValues v2.5 US30,M1: initialized
+0	16:10:56.399	SupResI US30,M1: initialized
+0	16:10:56.419	_HOD_LOD_Close_1 US30,M1: initialized
+0	16:10:56.431	Semafor (1ball) US30,M1: initialized
+0	16:10:56.448	TMA+CG mladen NRP TEAMTRADER7 US30,M1: initialized
+0	16:10:56.470	SweetSpotsGOLD_TRO_MODIFIED_VERSION(Bullforyou.com) US30,M1: initialized
+0	16:10:56.484	ticks-volume4 US30,M1: initialized
+0	16:10:56.503	Divergence_MACD_FX5_V1.1 US30,M1: initialized
+0	16:10:56.514	ZeroLag_MACD US30,M1: initialized
+0	16:10:56.602	HeikenAshiCandles(MTFD)I Altered  colors 4 Medium US30,M1: Alert: Osprey Ltd[2364914]-US30[ M1]- HA(M30)buy
+0	16:10:56.699	HeikenAshiCandles(MTFD)I Altered  colors 3 medium US30,M1: Alert: Osprey Ltd[2364914]-US30[ M1]- HA(M15)buy
+0	16:26:02.832	HeikenAshiCandles(MTFD)I Altered  colors 2 medium US30,M1: Alert: Osprey Ltd[2364914]-US30[ M1]- HA( M5)sell
+0	16:38:38.779	HeikenAshiCandles(MTFD)I Altered  colors 2 medium US30,M1: Alert: Osprey Ltd[2364914]-US30[ M1]- HA( M5)buy
+0	16:49:18.457	HeikenAshiCandles(MTFD)I Altered  colors 2 medium US30,M1: Alert: Osprey Ltd[2364914]-US30[ M1]- HA( M5)sell
+0	17:14:14.248	Compiling 'MR tma 7'
+0	17:14:16.855	Compiling 'MR tma'
+0	17:14:19.944	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,M15: uninit reason 2
+0	17:14:19.947	Custom indicator HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,M15: removed
+0	17:14:19.957	Custom indicator HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,M15: loaded successfully
+0	17:14:19.976	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,M15: initialized
+0	17:14:19.998	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,M15: Alert: Osprey Ltd[2364914]-US30[M15]- HA( H1)buy
+0	17:14:39.418	pipsometer_5_decimal US30,M1: uninit reason 7
+0	17:14:39.418	Magnified_Market_Price US30,M1: uninit reason 7
+0	17:14:39.418	HeikenAshiCandles(MTFD)I Altered  colors 4 Medium US30,M1: uninit reason 7
+0	17:14:39.421	HeikenAshiCandles(MTFD)I Altered  colors 3 medium US30,M1: uninit reason 7
+0	17:14:39.422	HeikenAshiCandles(MTFD)I Altered  colors 2 medium US30,M1: uninit reason 7
+0	17:14:39.424	ZigZag&HiLoValues v2.5 US30,M1: uninit reason 7
+0	17:14:39.426	SupResI US30,M1: uninit reason 7
+0	17:14:39.429	_HOD_LOD_Close_1 US30,M1: uninit reason 7
+0	17:14:39.429	Semafor (1ball) US30,M1: uninit reason 7
+0	17:14:39.429	TMA+CG mladen NRP TEAMTRADER7 US30,M1: uninit reason 7
+0	17:14:39.430	SweetSpotsGOLD_TRO_MODIFIED_VERSION(Bullforyou.com) US30,M1: uninit reason 7
+0	17:14:39.433	ticks-volume4 US30,M1: uninit reason 7
+0	17:14:39.433	Divergence_MACD_FX5_V1.1 US30,M1: uninit reason 7
+0	17:14:39.446	ZeroLag_MACD US30,M1: uninit reason 7
+0	17:14:39.448	Custom indicator pipsometer_5_decimal US30,M1: removed
+0	17:14:39.449	Custom indicator Magnified_Market_Price US30,M1: removed
+0	17:14:39.450	Custom indicator HeikenAshiCandles(MTFD)I Altered  colors 4 Medium US30,M1: removed
+0	17:14:39.453	Custom indicator HeikenAshiCandles(MTFD)I Altered  colors 3 medium US30,M1: removed
+0	17:14:39.454	Custom indicator HeikenAshiCandles(MTFD)I Altered  colors 2 medium US30,M1: removed
+0	17:14:39.455	Custom indicator ZigZag&HiLoValues v2.5 US30,M1: removed
+0	17:14:39.457	Custom indicator SupResI US30,M1: removed
+0	17:14:39.458	Custom indicator _HOD_LOD_Close_1 US30,M1: removed
+0	17:14:39.460	Custom indicator Semafor (1ball) US30,M1: removed
+0	17:14:39.461	Custom indicator TMA+CG mladen NRP TEAMTRADER7 US30,M1: removed
+0	17:14:39.462	Custom indicator SweetSpotsGOLD_TRO_MODIFIED_VERSION(Bullforyou.com) US30,M1: removed
+0	17:14:39.464	Custom indicator ticks-volume4 US30,M1: removed
+0	17:14:39.465	Custom indicator Divergence_MACD_FX5_V1.1 US30,M1: removed
+0	17:14:39.467	Custom indicator ZeroLag_MACD US30,M1: removed
+0	17:14:39.494	Custom indicator pipsometer_5_decimal US30,M1: loaded successfully
+0	17:14:39.504	Custom indicator Magnified_Market_Price US30,M1: loaded successfully
+0	17:14:39.514	Custom indicator Xandra\HeikenAshiCandles(MTFD)I Altered  colors 4 Medium US30,M1: loaded successfully
+0	17:14:39.525	Custom indicator Xandra\HeikenAshiCandles(MTFD)I Altered  colors 3 medium US30,M1: loaded successfully
+0	17:14:39.536	Custom indicator Xandra\HeikenAshiCandles(MTFD)I Altered  colors 2 medium US30,M1: loaded successfully
+0	17:14:39.546	Custom indicator ZigZag&HiLoValues v2.5 US30,M1: loaded successfully
+0	17:14:39.556	Custom indicator Xandra\Xandra\SupResI US30,M1: loaded successfully
+0	17:14:39.566	Custom indicator _HOD_LOD_Close_1 US30,M1: loaded successfully
+0	17:14:39.575	Custom indicator Semafor (1ball) US30,M1: loaded successfully
+0	17:14:39.586	Custom indicator TMA+CG mladen NRP TEAMTRADER7 US30,M1: loaded successfully
+0	17:14:39.597	Custom indicator MR tma 7 US30,M1: loaded successfully
+0	17:14:39.605	Custom indicator SweetSpotsGOLD_TRO_MODIFIED_VERSION(Bullforyou.com) US30,M1: loaded successfully
+0	17:14:39.614	Custom indicator ticks-volume4 US30,M1: loaded successfully
+0	17:14:39.624	Custom indicator Divergence_MACD_FX5_V1.1 US30,M1: loaded successfully
+0	17:14:39.643	Custom indicator ZeroLag_MACD US30,M1: loaded successfully
+0	17:14:39.667	pipsometer_5_decimal US30,M1: initialized
+0	17:14:39.678	Magnified_Market_Price US30,M1: initialized
+0	17:14:39.695	HeikenAshiCandles(MTFD)I Altered  colors 4 Medium US30,M1: initialized
+0	17:14:39.712	HeikenAshiCandles(MTFD)I Altered  colors 3 medium US30,M1: initialized
+0	17:14:39.733	HeikenAshiCandles(MTFD)I Altered  colors 2 medium US30,M1: initialized
+0	17:14:39.777	ZigZag&HiLoValues v2.5 US30,M1: initialized
+0	17:14:39.796	SupResI US30,M1: initialized
+0	17:14:39.813	_HOD_LOD_Close_1 US30,M1: initialized
+0	17:14:39.826	Semafor (1ball) US30,M1: initialized
+0	17:14:39.845	TMA+CG mladen NRP TEAMTRADER7 US30,M1: initialized
+0	17:14:39.861	MR tma 7 US30,M1: initialized
+0	17:14:39.880	SweetSpotsGOLD_TRO_MODIFIED_VERSION(Bullforyou.com) US30,M1: initialized
+0	17:14:39.894	ticks-volume4 US30,M1: initialized
+0	17:14:39.914	Divergence_MACD_FX5_V1.1 US30,M1: initialized
+0	17:14:39.925	ZeroLag_MACD US30,M1: initialized
+0	17:14:40.006	HeikenAshiCandles(MTFD)I Altered  colors 4 Medium US30,M1: Alert: Osprey Ltd[2364914]-US30[ M1]- HA(M30)buy
+0	17:14:40.173	HeikenAshiCandles(MTFD)I Altered  colors 2 medium US30,M1: Alert: Osprey Ltd[2364914]-US30[ M1]- HA( M5)sell
+0	18:00:06.396	HeikenAshiCandles(MTFD)I Altered  colors 2 medium US30,M1: Alert: Osprey Ltd[2364914]-US30[ M1]- HA( M5)buy
+0	18:08:14.568	HeikenAshiCandles(MTFD)I Altered  colors 2 medium US30,M1: Alert: Osprey Ltd[2364914]-US30[ M1]- HA( M5)sell
+0	18:14:59.917	HeikenAshiCandles(MTFD)I Altered  colors 2 medium US30,M1: Alert: Osprey Ltd[2364914]-US30[ M1]- HA( M5)buy
+0	18:16:03.293	HeikenAshiCandles(MTFD)I Altered  colors 3 medium US30,M1: Alert: Osprey Ltd[2364914]-US30[ M1]- HA(M15)sell
+0	18:19:59.926	Divergence_MACD_FX5_V1.1 US30,M1: Alert: Classical bullish divergence on: US30 , 1 minutes chart
+0	18:24:33.884	HeikenAshiCandles(MTFD)I Altered  colors 2 medium US30,M1: Alert: Osprey Ltd[2364914]-US30[ M1]- HA( M5)buy
+0	18:40:01.580	HeikenAshiCandles(MTFD)I Altered  colors 2 medium US30,M1: Alert: Osprey Ltd[2364914]-US30[ M1]- HA( M5)sell
+0	18:45:03.040	HeikenAshiCandles(MTFD)I Altered  colors 3 medium US30,M1: Alert: Osprey Ltd[2364914]-US30[ M1]- HA(M15)sell
+0	18:50:01.146	HeikenAshiCandles(MTFD)I Altered  colors 2 medium US30,M1: Alert: Osprey Ltd[2364914]-US30[ M1]- HA( M5)buy
+0	19:00:00.124	HeikenAshiCandles(MTFD)I Altered  colors 4 Medium US30,M1: Alert: Osprey Ltd[2364914]-US30[ M1]- HA(M30)sell
+0	19:02:21.426	HeikenAshiCandles(MTFD)I Altered  colors 3 medium US30,M1: Alert: Osprey Ltd[2364914]-US30[ M1]- HA(M15)buy
+0	19:02:21.427	HeikenAshiCandles(MTFD)I Altered  colors 2 medium US30,M1: Alert: Osprey Ltd[2364914]-US30[ M1]- HA( M5)buy
+0	19:10:09.862	HeikenAshiCandles(MTFD)I Altered  colors 2 medium US30,M1: Alert: Osprey Ltd[2364914]-US30[ M1]- HA( M5)sell
+0	19:17:02.087	Divergence_MACD_FX5_V1.1 US30,M1: Alert: Classical bullish divergence on: US30 , 1 minutes chart
+0	19:23:11.684	HeikenAshiCandles(MTFD)I Altered  colors 2 medium US30,M1: Alert: Osprey Ltd[2364914]-US30[ M1]- HA( M5)buy
+0	19:33:52.627	HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,M15: uninit reason 7
+0	19:33:52.628	nn_Crosshair_Sync_2_1_3 US30,M15: uninit reason 7
+0	19:33:52.630	Custom indicator HeikenAshiCandles(MTFD)I Altered  colors 2 Medium US30,M15: removed
+0	19:33:52.631	Custom indicator nn_Crosshair_Sync_2_1_3 US30,M15: removed
