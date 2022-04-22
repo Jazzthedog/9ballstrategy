@@ -1,10 +1,10 @@
 <chart>
-id=132945157085140127
-symbol=ETHUSD
-period=1
-leftpos=3319
+id=132945157085140126
+symbol=US30.pro
+period=60
+leftpos=1976
 digits=2
-scale=8
+scale=32
 graph=1
 fore=0
 grid=0
@@ -19,10 +19,10 @@ days=0
 descriptions=1
 shift_size=20
 fixed_pos=0
-window_left=0
-window_top=0
-window_right=894
-window_bottom=623
+window_left=32
+window_top=32
+window_right=1056
+window_bottom=872
 window_type=3
 background_color=0
 foreground_color=16777215
@@ -41,26 +41,6 @@ height=100
 fixed_height=0
 <indicator>
 name=main
-<object>
-type=23
-object_name=Label 415
-period_flags=0
-create_time=1650655647
-description=21 Channel - TMA True template
-color=16776960
-font=Arial
-fontsize=10
-angle=0
-anchor_pos=0
-background=1
-filling=0
-selectable=1
-hidden=0
-zorder=0
-corner=0
-x_distance=2573
-y_distance=17
-</object>
 </indicator>
 <indicator>
 name=Custom Indicator
@@ -72,7 +52,7 @@ window_num=0
 TimeFrame=current time frame
 HalfLength=21
 Price=6
-BandsDeviations=2.0
+BandsDeviations=2.7
 Interpolate=true
 alertsOn=false
 alertsOnCurrent=false
@@ -117,30 +97,51 @@ show_data=1
 <indicator>
 name=Custom Indicator
 <expert>
-name=TMA TRUE v2
+name=MR tma 7
 flags=275
 window_num=0
 <inputs>
-TMA_Period=30
-ATR_Period=60
-ATR_Mult=2.0
+TimeFrame=current time frame
+HalfLength=7
+Price=6
+BandsDeviations=2.7
+Interpolate=true
+alertsOn=false
+alertsOnCurrent=false
+alertsOnHighLow=false
+alertsMessage=false
+alertsSound=false
+alertsEmail=false
+Chart_to_front=false
 </inputs>
 </expert>
 shift_0=0
 draw_0=0
-color_0=11119017
-style_0=0
+color_0=16777215
+style_0=2
 weight_0=0
 shift_1=0
 draw_1=0
-color_1=255
+color_1=65535
 style_1=0
 weight_1=0
 shift_2=0
 draw_2=0
-color_2=16748574
+color_2=65535
 style_2=0
 weight_2=0
+shift_3=0
+draw_3=3
+color_3=4294967295
+style_3=0
+weight_3=6
+arrow_3=234
+shift_4=0
+draw_4=3
+color_4=4294967295
+style_4=0
+weight_4=6
+arrow_4=233
 period_flags=0
 show_data=1
 </indicator>
