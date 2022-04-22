@@ -1,4 +1,7 @@
 *.chr
 *.log
 *.hst
+*.raw
+*.sel
+*.ini
 
