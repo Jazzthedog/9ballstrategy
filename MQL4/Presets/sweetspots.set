@@ -1,0 +1,12 @@
+TURN_OFF=false
+AutoAdjust=true
+Show_Labels=true
+ShiftLabel=10
+NumLinesAboveBelow=100
+SweetSpotMainLevels=10000
+LineColorMain=16777215
+LineStyleMain=2
+ShowSubLevels=true
+sublevels=5000
+LineColorSub=65535
+LineStyleSub=2
