@@ -1,0 +1,12 @@
+USESTOP=true
+USEMOVETOBREAKEVEN=true
+WHENTOMOVETOBE=1000.0
+PIPSTOMOVESL=100.0
+Lots=0.02
+MaximumRisk=0.03
+DecreaseFactor=3.0
+TrailingStop=100.0
+Stop_Loss=100.0
+TakeProfit=200.0
+MagicNumber=1939
+NumberOfTrades=1
